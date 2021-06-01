@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1636px" preserveAspectRatio="none" style="width:783px;height:1636px;" version="1.1" viewBox="0 0 783 1636" width="783px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="50.4824" style="stroke: #FFFFFF; stroke-width: 1.0;" width="10" x="82" y="112.4824"/><line style="stroke: #000000; stroke-width: 1.0;" x1="82" x2="82" y1="112.4824" y2="162.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="92" x2="92" y1="112.4824" y2="162.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="82" x2="92" y1="112.4824" y2="112.4824"/><rect fill="#FFFFFF" height="1344.6436" style="stroke: #FFFFFF; stroke-width: 1.0;" width="10" x="82" y="210.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="82" x2="82" y1="210.9648" y2="1555.6084"/><line style="stroke: #000000; stroke-width: 1.0;" x1="92" x2="92" y1="210.9648" y2="1555.6084"/><line style="stroke: #000000; stroke-width: 1.0;" x1="82" x2="92" y1="1555.6084" y2="1555.6084"/><rect fill="#FFFFFF" height="130.4473" style="stroke: #000000; stroke-width: 1.0;" width="10" x="222" y="320.4121"/><rect fill="#FFFFFF" height="229.8945" style="stroke: #000000; stroke-width: 1.0;" width="10" x="222" y="642.0186"/><rect fill="#FFFFFF" height="515.7656" style="stroke: #000000; stroke-width: 1.0;" width="10" x="222" y="989.3604"/><rect fill="#FFFFFF" height="1352.6436" style="stroke: #000000; stroke-width: 1.0;" width="10" x="543" y="253.4473"/><rect fill="#FFFFFF" height="232.377" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="432.5" x="162.5" y="523.0889"/><rect fill="#FFFFFF" height="105.4473" style="stroke: none; stroke-width: 1.0;" width="432.5" x="162.5" y="650.0186"/><rect fill="#FFFFFF" height="501.7656" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="759.5" x="13" y="886.9131"/><rect fill="#FFFFFF" height="253.124" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="600" x="162.5" y="1128.5547"/><rect fill="#FFFFFF" height="68.9648" style="stroke: none; stroke-width: 1.0;" width="600" x="162.5" y="1312.7139"/><line style="stroke: #000000; stroke-width: 1.0;" x1="87" x2="87" y1="102.4824" y2="162.9648"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,4.0;" x1="87" x2="87" y1="162.9648" y2="210.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="87" x2="87" y1="210.9648" y2="1624.0908"/><line style="stroke: #000000; stroke-width: 1.0;" x1="226.5" x2="226.5" y1="102.4824" y2="162.9648"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,4.0;" x1="226.5" x2="226.5" y1="162.9648" y2="210.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="226.5" x2="226.5" y1="210.9648" y2="1624.0908"/><line style="stroke: #000000; stroke-width: 1.0;" x1="548" x2="548" y1="102.4824" y2="162.9648"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,4.0;" x1="548" x2="548" y1="162.9648" y2="210.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="548" x2="548" y1="210.9648" y2="1624.0908"/><line style="stroke: #000000; stroke-width: 1.0;" x1="720.5" x2="720.5" y1="102.4824" y2="162.9648"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,4.0;" x1="720.5" x2="720.5" y1="162.9648" y2="210.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="720.5" x2="720.5" y1="210.9648" y2="1624.0908"/><rect fill="#9EA0CA" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="128" x="23" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="94" x="40" y="81.4063">블루투스 기기</text><rect fill="#9EA0CA" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="109" x="172.5" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="75" x="189.5" y="81.4063">클라이언트</text><rect fill="#05D686" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="74" x="511" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="40" x="528" y="81.4063">CLOVA</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="698.5" y="89.8457">사용자</text><ellipse cx="721" cy="13" fill="#FFFFFF" rx="8" ry="8" style="stroke: #000000; stroke-width: 2.0;"/><path d="M721,21 L721,48 M708,29 L734,29 M721,48 L708,63 M721,48 L734,63 " fill="none" style="stroke: #000000; stroke-width: 2.0;"/><rect fill="#FFFFFF" height="50.4824" style="stroke: #FFFFFF; stroke-width: 1.0;" width="10" x="82" y="112.4824"/><line style="stroke: #000000; stroke-width: 1.0;" x1="82" x2="82" y1="112.4824" y2="162.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="92" x2="92" y1="112.4824" y2="162.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="82" x2="92" y1="112.4824" y2="112.4824"/><rect fill="#FFFFFF" height="1344.6436" style="stroke: #FFFFFF; stroke-width: 1.0;" width="10" x="82" y="210.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="82" x2="82" y1="210.9648" y2="1555.6084"/><line style="stroke: #000000; stroke-width: 1.0;" x1="92" x2="92" y1="210.9648" y2="1555.6084"/><line style="stroke: #000000; stroke-width: 1.0;" x1="82" x2="92" y1="1555.6084" y2="1555.6084"/><rect fill="#FFFFFF" height="130.4473" style="stroke: #000000; stroke-width: 1.0;" width="10" x="222" y="320.4121"/><rect fill="#FFFFFF" height="229.8945" style="stroke: #000000; stroke-width: 1.0;" width="10" x="222" y="642.0186"/><rect fill="#FFFFFF" height="515.7656" style="stroke: #000000; stroke-width: 1.0;" width="10" x="222" y="989.3604"/><rect fill="#FFFFFF" height="1352.6436" style="stroke: #000000; stroke-width: 1.0;" width="10" x="543" y="253.4473"/><polygon fill="#000000" points="215,150.9648,225,154.9648,215,158.9648,219,154.9648" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="92" x2="221" y1="154.9648" y2="154.9648"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="60" x="129.5" y="140.3281">Advertising</text><line style="stroke: #000000; stroke-width: 1.0;" x1="553" x2="563" y1="253.4473" y2="249.4473"/><line style="stroke: #000000; stroke-width: 1.0;" x1="553" x2="563" y1="253.4473" y2="257.4473"/><line style="stroke: #000000; stroke-width: 1.0;" x1="553" x2="720" y1="253.4473" y2="253.4473"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="129" x="572.5" y="238.8105">블루투스 기기 연결 요청</text><polygon fill="#000000" points="243,316.4121,233,320.4121,243,324.4121,239,320.4121" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="237" x2="542" y1="320.4121" y2="320.4121"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="155" x="310" y="289.293">DeviceControl.BtStartPairing</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="90" x="342.5" y="305.7754">지시 메시지 전송</text><line style="stroke: #000000; stroke-width: 1.0;" x1="232" x2="274" y1="370.8945" y2="370.8945"/><line style="stroke: #000000; stroke-width: 1.0;" x1="274" x2="274" y1="370.8945" y2="383.8945"/><line style="stroke: #000000; stroke-width: 1.0;" x1="233" x2="274" y1="383.8945" y2="383.8945"/><polygon fill="#000000" points="243,379.8945,233,383.8945,243,387.8945,239,383.8945" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="52" x="249" y="356.2578">Scanning</text><polygon fill="#000000" points="531,446.8594,541,450.8594,531,454.8594,535,450.8594" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="227" x2="537" y1="450.8594" y2="450.8594"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="264" x="251.5" y="419.7402">DeviceControl.ActionExecuted (with DeviceState)</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="102" x="334" y="436.2227">이벤트 메시지 전송</text><polygon fill="#9EA0CA" points="40,463.8594,273,463.8594,283,486.8594,273,510.8594,40,510.8594,30,486.8594,40,463.8594" style="stroke: #FFFFFF; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="92.75" y="494.0127">블루투스 기기 발견</text><path d="M167.5,523.0889 L241.5,523.0889 L241.5,551.0889 L231.5,561.0889 L162.5,561.0889 L162.5,528.0889 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="232.377" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="432.5" x="162.5" y="523.0889"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="14" x="187.5" y="547.9346">alt</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="125" x="266.5" y="548.9346">[특정 기기 지정 == 예]</text><polygon fill="#000000" points="243,638.0186,233,642.0186,243,646.0186,239,642.0186" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="237" x2="542" y1="642.0186" y2="642.0186"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="216" x="279.5" y="610.8994">DeviceControl.BtConnect (with payload)</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="90" x="342.5" y="627.3818">지시 메시지 전송</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="162.5" x2="595" y1="651.0186" y2="651.0186"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="151" x="177.5" y="674.8643">[특정 기기 지정 == 아니오]</text><polygon fill="#000000" points="243,743.4658,233,747.4658,243,751.4658,239,747.4658" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="237" x2="542" y1="747.4658" y2="747.4658"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="233" x="271" y="716.3467">DeviceControl.BtConnect (without payload)</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="90" x="342.5" y="732.8291">지시 메시지 전송</text><polygon fill="#000000" points="103,800.9482,93,804.9482,103,808.9482,99,804.9482" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="97" x2="221" y1="804.9482" y2="804.9482"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="51" x="131.5" y="790.3115">연결 요청</text><polygon fill="#000000" points="531,867.9131,541,871.9131,531,875.9131,535,871.9131" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="227" x2="537" y1="871.9131" y2="871.9131"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="264" x="253" y="840.7939">DeviceControl.ActionExecuted (with DeviceState)</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="102" x="334" y="857.2764">이벤트 메시지 전송</text><path d="M18,886.9131 L92,886.9131 L92,914.9131 L82,924.9131 L13,924.9131 L13,891.9131 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="501.7656" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="759.5" x="13" y="886.9131"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="14" x="38" y="911.7588">alt</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="118" x="117" y="912.7588">[PIN 코드 필요 == 예]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="220" x2="210" y1="989.3604" y2="985.3604"/><line style="stroke: #000000; stroke-width: 1.0;" x1="220" x2="210" y1="989.3604" y2="993.3604"/><line style="stroke: #000000; stroke-width: 1.0;" x1="92" x2="221" y1="989.3604" y2="989.3604"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="74" x="120" y="974.7236">PIN 코드 요청</text><polygon fill="#000000" points="531,1052.3252,541,1056.3252,531,1060.3252,535,1056.3252" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="232" x2="537" y1="1056.3252" y2="1056.3252"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="206" x="284.5" y="1025.2061">DeviceControl.BtRequestForPINCode</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="102" x="336.5" y="1041.6885">이벤트 메시지 전송</text><polygon fill="#05D686" points="525,1069.3252,742,1069.3252,752,1092.3252,742,1116.3252,525,1116.3252,515,1092.3252,525,1069.3252" style="stroke: #FFFFFF; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="178" x="544.75" y="1099.4785">PIN 코드 요청 및 입력 처리</text><path d="M167.5,1128.5547 L241.5,1128.5547 L241.5,1156.5547 L231.5,1166.5547 L162.5,1166.5547 L162.5,1133.5547 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="253.124" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="600" x="162.5" y="1128.5547"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="14" x="187.5" y="1153.4004">alt</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="176" x="266.5" y="1154.4004">[PIN 코드 입력 취소 판단 == 예]</text><polygon fill="#000000" points="531,1243.4844,541,1247.4844,531,1251.4844,535,1247.4844" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="232" x2="537" y1="1247.4844" y2="1247.4844"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="241" x="267" y="1216.3652">DeviceControl.BtRequestToCancelPINCode</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="102" x="336.5" y="1232.8477">이벤트 메시지 전송</text><polygon fill="#05D686" points="525,1260.4844,742,1260.4844,752,1283.4844,742,1307.4844,525,1307.4844,515,1283.4844,525,1260.4844" style="stroke: #FFFFFF; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="159" x="554.25" y="1290.6377">PIN 코드 요청 취소 처리</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="162.5" x2="762.5" y1="1313.7139" y2="1313.7139"/><polygon fill="#000000" points="243,1369.6787,233,1373.6787,243,1377.6787,239,1373.6787" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="237" x2="542" y1="1373.6787" y2="1373.6787"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="200" x="287.5" y="1342.5596">DeviceControl.BtConnectByPINCode</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="90" x="342.5" y="1359.042">지시 메시지 전송</text><polygon fill="#000000" points="103,1434.1611,93,1438.1611,103,1442.1611,99,1438.1611" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="97" x2="221" y1="1438.1611" y2="1438.1611"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="86" x="114" y="1423.5244">PIN 코드로 접속</text><polygon fill="#000000" points="531,1501.126,541,1505.126,531,1509.126,535,1505.126" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="227" x2="537" y1="1505.126" y2="1505.126"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="163" x="303.5" y="1474.0068">DeviceControl.ActionExecuted</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="102" x="334" y="1490.4893">이벤트 메시지 전송</text><line style="stroke: #000000; stroke-width: 1.0;" x1="225" x2="215" y1="1555.6084" y2="1551.6084"/><line style="stroke: #000000; stroke-width: 1.0;" x1="225" x2="215" y1="1555.6084" y2="1559.6084"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="87" x2="226" y1="1555.6084" y2="1555.6084"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="51" x="131.5" y="1540.9717">접속 결과</text><polygon fill="#000000" points="709,1602.0908,719,1606.0908,709,1610.0908,713,1606.0908" style="stroke: #000000; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 1.0;" x1="548" x2="715" y1="1606.0908" y2="1606.0908"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="78" x="595.5" y="1591.4541">연결 결과 알림</text><!--
+@startuml
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR", sans-serif
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+participant "블루투스 기기" as device #9EA0CA
+participant 클라이언트 as client #9EA0CA
+participant "CLOVA" as clova #05D686
+actor 사용자 as user #9EA0
+activate device
+device -> client: Advertising
+...
+user ->> clova : 블루투스 기기 연결 요청
+activate clova
+  clova -> client : DeviceControl.BtStartPairing\n지시 메시지 전송
+
+activate client
+  client -> client : Scanning
+  client - -> clova : DeviceControl.ActionExecuted (with DeviceState) \n이벤트 메시지 전송
+  hnote over client, device : 블루투스 기기 발견
+deactivate client
+
+ alt 특정 기기 지정 == 예
+	clova -> client : DeviceControl.BtConnect (with payload)\n지시 메시지 전송
+
+	activate client
+ else 특정 기기 지정 == 아니오
+    clova -> client : DeviceControl.BtConnect (without payload)\n지시 메시지 전송
+end
+
+  client -> device : 연결 요청
+  client - -> clova : DeviceControl.ActionExecuted (with DeviceState)\n이벤트 메시지 전송
+
+	deactivate client
+  alt PIN 코드 필요 == 예
+	device ->> client : PIN 코드 요청
+
+	activate client
+	client -> clova : DeviceControl.BtRequestForPINCode\n이벤트 메시지 전송
+    hnote over clova, user #05D686 : PIN 코드 요청 및 입력 처리
+
+    alt PIN 코드 입력 취소 판단 == 예
+		client -> clova: DeviceControl.BtRequestToCancelPINCode\n이벤트 메시지 전송
+		hnote over clova, user #05D686 : PIN 코드 요청 취소 처리
+    else
+ 		clova -> client : DeviceControl.BtConnectByPINCode\n지시 메시지 전송
+	end
+  end
+    client -> device : PIN 코드로 접속
+    client -> clova: DeviceControl.ActionExecuted\n이벤트 메시지 전송
+
+	deactivate client
+	device - ->> client : 접속 결과
+ deactivate device
+
+  clova -> user: 연결 결과 알림
+
+deactivate clova
+
+@enduml
+
+PlantUML version 1.2018.12(Sun Oct 21 19:15:15 KST 2018)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_191-b12
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: MS949
+Language: ko
+Country: KR
+--></g></svg>

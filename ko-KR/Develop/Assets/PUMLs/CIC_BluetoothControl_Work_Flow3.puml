@@ -1,0 +1,29 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant "블루투스 기기" as device #9EA0CA
+participant 클라이언트 as client #9EA0CA
+participant "CLOVA" as clova #05D686
+
+user ->> client : 음원 재생 요청
+activate client
+client ->> clova : SpeechRecognizer.Recognize\n이벤트 메시지 전송
+deactivate client
+activate clova
+alt 클라이언트 역할 == sink
+  clova ->> client : DeviceControl.BtPlay\n지시 메시지 전송
+
+activate client
+
+	device -> client : 블루투스 기기로부터 오디오 스트림 수신
+  activate device
+    client -> user : 스피커에서 음원 재생
+else 클라이언트 역할 == source
+        clova -> client : AudioPlayer.Play\n지시 메시지 전송
+        client -> device : 블루투스 스피커로 음원 전송
+    device -> user : 블루투스 스피커에서 음원 재생
+end
+  client --> clova : DeviceControl.ActionExecuted (with DeviceState) \n이벤트 메시지 전송
+deactivate client
+deactivate device
+deactivate clova
