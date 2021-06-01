@@ -1,0 +1,43 @@
+@startuml
+
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CIC as cic #05D686
+
+
+  user ->> client : 알람 삭제 요청 (발화 또는 버튼을 통한 이벤트)
+
+  activate client
+
+  alt 알람 삭제 요청 유형 == 사용자 발화
+
+    client ->> cic : 알람 삭제 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+
+  activate cic
+
+  else 알람 삭제 요청 유형 == 버튼을 통한 이벤트
+
+    client ->> cic : 알람 삭제 요청 전달\n(Alerts.RequestDeleteAlert 이벤트 메시지)
+
+  end
+
+  deactivate client
+
+  cic -> cic : 알람 삭제 처리
+
+  cic -->> client : Alerts.DeleteAlert 지시 메시지 전달
+
+  deactivate cic
+  activate client
+
+  client ->> cic : 알람 삭제 결과 보고\n(Alerts.DeleteAlertSucceeded 이벤트 메시지)
+  
+  activate cic
+
+  client -> client : 알람 삭제
+  
+  deactivate cic
+
+@enduml

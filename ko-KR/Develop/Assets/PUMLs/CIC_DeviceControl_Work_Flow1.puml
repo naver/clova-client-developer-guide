@@ -1,0 +1,46 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CIC as cic #05D686
+
+user ->> client : 클라이언트 제어 요청:\n"GPS 켜줘"
+
+activate client
+  client ->> cic : SpeechRecognizer.Recognize 이벤트 메시지 전송\n(Device.DeviceState 맥락 정보 필수 포함)
+
+deactivate client
+
+activate cic
+  cic -> cic : 클라이언트가 지원하는\n동작인지 분석\n(Device.DeviceState의\nactions[] 필드 분석)
+
+  alt 요청 동작 지원 여부 == 아니오
+
+    cic -->> client : SpeechSynthesizer.Speak 지시 메시지 전송\n("지원하지 않는 동작입니다.")
+    activate client
+    client -->> user : 음성 메시지 출력
+
+  else 요청 동작 지원 여부 == 네
+
+    cic -->> client : 클라이언트 제어 지시 메시지 전송\n(DeviceControl.TurnOn 지시 메시지)
+
+    deactivate cic
+
+    client -> client : 기기 제어 요청 처리
+
+    alt 기기 제어 처리 여부 == 성공
+
+      client ->> cic : DeviceControl.ActionExecuted 이벤트 메시지 전송
+      activate cic
+
+    else 기기 제어 처리 여부 == 실패
+
+      client ->> cic : DeviceControl.ActionFailed 이벤트 메시지 전송
+
+    end
+
+  end
+
+  deactivate client
+
+deactivate cic

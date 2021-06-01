@@ -1,0 +1,15 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+participant "블루투스 기기" as device #9EA0CA
+participant 클라이언트 as client #9EA0CA
+participant "CLOVA" as clova #05D686
+
+activate device
+device -> device : 페어링 준비(Bluetooth advertising)
+hnote over device, clova : 페어링 가능한 기기 목록 조회 요청
+activate clova
+  clova ->> client : DeviceControl.BtStartPairing\n지시 메시지 전송
+activate client
+  client -> client : 기기 탐색(Bluetooth scanning)
+  client -->> clova : DeviceControl.ActionExecuted (with DeviceState) \n이벤트 메시지 전송
+hnote over device, clova : 탐색된 기기 목록 제공

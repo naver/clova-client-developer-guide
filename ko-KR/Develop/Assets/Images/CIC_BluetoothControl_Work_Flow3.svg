@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="742.122px" preserveAspectRatio="none" style="width:884px;height:742px;" version="1.1" viewBox="0 0 884 742" width="884.354px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="320.1278" style="stroke: #000000; stroke-width: 0.9675645959318306;" width="9.6756" x="255.9208" y="393.1619"/><rect fill="#FFFFFF" height="64.7928" style="stroke: #000000; stroke-width: 0.9675645959318306;" width="9.6756" x="512.3255" y="149.9385"/><rect fill="#FFFFFF" height="368.9728" style="stroke: #000000; stroke-width: 0.9675645959318306;" width="9.6756" x="512.3255" y="344.3169"/><rect fill="#FFFFFF" height="498.5584" style="stroke: #000000; stroke-width: 0.9675645959318306;" width="9.6756" x="822.9137" y="214.7313"/><rect fill="#FFFFFF" height="420.2197" rx="4.8378" ry="4.8378" style="stroke: #000000; stroke-width: 1.9351291918636613;" width="860.6487" x="12.5783" y="229.2448"/><rect fill="#FFFFFF" height="199.717" style="stroke: none; stroke-width: 0.9675645959318306;" width="860.6487" x="12.5783" y="449.7475"/><line style="stroke: #000000; stroke-width: 0.9675645959318306; stroke-dasharray: 5.0,5.0;" x1="53.2161" x2="53.2161" y1="99.1584" y2="730.7059"/><line style="stroke: #000000; stroke-width: 0.9675645959318306; stroke-dasharray: 5.0,5.0;" x1="260.7587" x2="260.7587" y1="99.1584" y2="730.7059"/><line style="stroke: #000000; stroke-width: 0.9675645959318306; stroke-dasharray: 5.0,5.0;" x1="516.6795" x2="516.6795" y1="99.1584" y2="730.7059"/><line style="stroke: #000000; stroke-width: 0.9675645959318306; stroke-dasharray: 5.0,5.0;" x1="827.7515" x2="827.7515" y1="99.1584" y2="730.7059"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="37.735" x="31.9296" y="86.9315">사용자</text><ellipse cx="53.6998" cy="12.5783" fill="#9EA0CA" rx="7.7405" ry="7.7405" style="stroke: #000000; stroke-width: 1.9351291918636613;"/><path d="M53.6998,20.3189 L53.6998,46.4431 M41.1215,28.0594 L66.2782,28.0594 M53.6998,46.4431 L41.1215,60.9566 M53.6998,46.4431 L66.2782,60.9566 " fill="none" style="stroke: #000000; stroke-width: 1.9351291918636613;"/><rect fill="#9EA0CA" height="51.503" rx="4.8378" ry="4.8378" style="stroke: #FFFFFF; stroke-width: 1.451346893897746;" width="123.8483" x="198.8345" y="46.6878"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="13.5459" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90.9511" x="215.2831" y="78.7658">블루투스 기기</text><rect fill="#9EA0CA" height="51.503" rx="4.8378" ry="4.8378" style="stroke: #FFFFFF; stroke-width: 1.451346893897746;" width="105.4645" x="464.431" y="46.6878"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="13.5459" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72.5673" x="480.8796" y="78.7658">클라이언트</text><rect fill="#05D686" height="51.503" rx="4.8378" ry="4.8378" style="stroke: #FFFFFF; stroke-width: 1.451346893897746;" width="71.5998" x="791.9516" y="46.6878"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="13.5459" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="38.7026" x="808.4002" y="78.7658">CLOVA</text><rect fill="#FFFFFF" height="320.1278" style="stroke: #000000; stroke-width: 0.9675645959318306;" width="9.6756" x="255.9208" y="393.1619"/><rect fill="#FFFFFF" height="64.7928" style="stroke: #000000; stroke-width: 0.9675645959318306;" width="9.6756" x="512.3255" y="149.9385"/><rect fill="#FFFFFF" height="368.9728" style="stroke: #000000; stroke-width: 0.9675645959318306;" width="9.6756" x="512.3255" y="344.3169"/><rect fill="#FFFFFF" height="498.5584" style="stroke: #000000; stroke-width: 0.9675645959318306;" width="9.6756" x="822.9137" y="214.7313"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="510.3903" x2="500.7147" y1="149.9385" y2="146.0682"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="510.3903" x2="500.7147" y1="149.9385" y2="153.8088"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="53.6998" x2="511.3579" y1="149.9385" y2="149.9385"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="75.47" x="245.2776" y="135.7765">음원 재생 요청</text><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="820.9786" x2="811.3029" y1="214.7313" y2="210.8611"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="820.9786" x2="811.3029" y1="214.7313" y2="218.6016"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="517.1633" x2="821.9461" y1="214.7313" y2="214.7313"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="159.6482" x="590.2144" y="184.6215">SpeechRecognizer.Recognize</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="98.6916" x="620.6927" y="200.5693">이벤트 메시지 전송</text><path d="M17.4162,229.2448 L89.0159,229.2448 L89.0159,256.3366 L79.3403,266.0122 L12.5783,266.0122 L12.5783,234.0826 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 0.9675645959318306;"/><rect fill="none" height="420.2197" rx="4.8378" ry="4.8378" style="stroke: #000000; stroke-width: 1.9351291918636613;" width="860.6487" x="12.5783" y="229.2448"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="13.5459" x="36.7675" y="253.2846">alt</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141.2644" x="113.2051" y="254.2522">[클라이언트 역할 == sink]</text><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="522.0011" x2="531.6767" y1="344.3169" y2="340.4467"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="522.0011" x2="531.6767" y1="344.3169" y2="348.1872"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="522.0011" x2="821.9461" y1="344.3169" y2="344.3169"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="110.3024" x="617.3062" y="314.2072">DeviceControl.BtPlay</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="87.0808" x="628.917" y="330.155">지시 메시지 전송</text><polygon fill="#000000" points="500.7147,389.2917,510.3903,393.1619,500.7147,397.0322,504.5849,393.1619" style="stroke: #000000; stroke-width: 0.9675645959318306;"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="265.5965" x2="506.5201" y1="393.1619" y2="393.1619"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="208.994" x="284.464" y="379">블루투스 기기로부터 오디오 스트림 수신</text><polygon fill="#000000" points="64.343,438.1367,54.6674,442.0069,64.343,445.8772,60.4728,442.0069" style="stroke: #000000; stroke-width: 0.9675645959318306;"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="58.5377" x2="511.3579" y1="442.0069" y2="442.0069"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="110.3024" x="227.8615" y="427.845">스피커에서 음원 재생</text><line style="stroke: #000000; stroke-width: 0.9675645959318306; stroke-dasharray: 2.0,2.0;" x1="12.5783" x2="873.227" y1="450.715" y2="450.715"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="156.7455" x="27.0918" y="473.7873">[클라이언트 역할 == source]</text><polygon fill="#000000" points="532.6443,540.1637,522.9687,544.034,532.6443,547.9042,528.7741,544.034" style="stroke: #000000; stroke-width: 0.9675645959318306;"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="526.8389" x2="821.9461" y1="544.034" y2="544.034"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="88.0484" x="628.4332" y="513.9242">AudioPlayer.Play</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="87.0808" x="628.917" y="529.872">지시 메시지 전송</text><polygon fill="#000000" points="276.2397,589.0087,266.564,592.879,276.2397,596.7492,272.3694,592.879" style="stroke: #000000; stroke-width: 0.9675645959318306;"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="270.4343" x2="511.3579" y1="592.879" y2="592.879"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="148.0374" x="314.9423" y="578.717">블루투스 스피커로 음원 전송</text><polygon fill="#000000" points="64.343,637.8537,54.6674,641.724,64.343,645.5942,60.4728,641.724" style="stroke: #000000; stroke-width: 0.9675645959318306;"/><line style="stroke: #000000; stroke-width: 0.9675645959318306;" x1="58.5377" x2="254.9533" y1="641.724" y2="641.724"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="159.6482" x="74.9863" y="627.562">블루투스 스피커에서 음원 재생</text><polygon fill="#000000" points="816.1407,709.4195,825.8164,713.2898,816.1407,717.16,820.011,713.2898" style="stroke: #000000; stroke-width: 0.9675645959318306;"/><line style="stroke: #000000; stroke-width: 0.9675645959318306; stroke-dasharray: 2.0,2.0;" x1="517.1633" x2="821.9461" y1="713.2898" y2="713.2898"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="255.4371" x="543.2875" y="683.18">DeviceControl.ActionExecuted (with DeviceState)</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="11.6108" lengthAdjust="spacingAndGlyphs" textLength="98.6916" x="623.1116" y="699.1278">이벤트 메시지 전송</text><!--
+@startuml
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR", sans-serif
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+actor 사용자 as user
+participant "블루투스 기기" as device #9EA0CA
+participant 클라이언트 as client #9EA0CA
+participant "CLOVA" as clova #05D686
+
+user ->> client : 음원 재생 요청
+activate client
+client ->> clova : SpeechRecognizer.Recognize\n이벤트 메시지 전송
+deactivate client
+activate clova
+alt 클라이언트 역할 == sink
+  clova ->> client : DeviceControl.BtPlay\n지시 메시지 전송
+
+activate client
+
+	device -> client : 블루투스 기기로부터 오디오 스트림 수신
+  activate device
+    client -> user : 스피커에서 음원 재생
+else 클라이언트 역할 == source
+        clova -> client : AudioPlayer.Play\n지시 메시지 전송
+        client -> device : 블루투스 스피커로 음원 전송
+    device -> user : 블루투스 스피커에서 음원 재생
+end
+  client - -> clova : DeviceControl.ActionExecuted (with DeviceState) \n이벤트 메시지 전송
+deactivate client
+deactivate device
+deactivate clova
+
+@enduml
+
+PlantUML version 1.2018.12(Sun Oct 21 19:15:15 KST 2018)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_191-b12
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: MS949
+Language: ko
+Country: KR
+--></g></svg>

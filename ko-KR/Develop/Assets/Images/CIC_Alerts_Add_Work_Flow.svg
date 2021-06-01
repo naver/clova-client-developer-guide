@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1117px" preserveAspectRatio="none" style="width:724px;height:1117px;" version="1.1" viewBox="0 0 724 1117" width="724px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="69.52" style="stroke: #000000; stroke-width: 1.0;" width="10" x="260.5" y="175.28"/><rect fill="#FFFFFF" height="186.04" style="stroke: #000000; stroke-width: 1.0;" width="10" x="260.5" y="361.32"/><rect fill="#FFFFFF" height="143.28" style="stroke: #000000; stroke-width: 1.0;" width="10" x="260.5" y="616.88"/><rect fill="#FFFFFF" height="202.04" style="stroke: #000000; stroke-width: 1.0;" width="10" x="260.5" y="894.44"/><rect fill="#FFFFFF" height="116.52" style="stroke: #000000; stroke-width: 1.0;" width="10" x="580.5" y="244.8"/><rect fill="#FFFFFF" height="69.52" style="stroke: #000000; stroke-width: 1.0;" width="10" x="580.5" y="547.36"/><rect fill="#FFFFFF" height="203.8" style="stroke: #000000; stroke-width: 1.0;" width="10" x="580.5" y="760.16"/><rect fill="#FFFFFF" height="647.4" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="699.5" x="13" y="441.08"/><rect fill="#FFFFFF" height="411.84" style="stroke: none; stroke-width: 1.0;" width="699.5" x="13" y="676.64"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="52" x2="52" y1="103.76" y2="1105.48"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="265" x2="265" y1="103.76" y2="1105.48"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="585" x2="585" y1="103.76" y2="1105.48"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="33" x="33" y="89.92">사용자</text><ellipse cx="52.5" cy="13" fill="#FEFECE" rx="8" ry="8" style="stroke: #000000; stroke-width: 2.0;"/><path d="M52.5,21 L52.5,48 M39.5,29 L65.5,29 M52.5,48 L39.5,63 M52.5,48 L65.5,63 " fill="none" style="stroke: #000000; stroke-width: 2.0;"/><rect fill="#9EA0CA" height="54.72" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="99" x="216" y="48.04"/><text fill="#FFFFFF" font-family="Noto Sans CJK KR" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="65" x="233" y="81.28">클라이언트</text><rect fill="#05D686" height="54.72" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="57" x="557" y="48.04"/><text fill="#FFFFFF" font-family="Noto Sans CJK KR" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="23" x="574" y="81.28">CIC</text><rect fill="#FFFFFF" height="69.52" style="stroke: #000000; stroke-width: 1.0;" width="10" x="260.5" y="175.28"/><rect fill="#FFFFFF" height="186.04" style="stroke: #000000; stroke-width: 1.0;" width="10" x="260.5" y="361.32"/><rect fill="#FFFFFF" height="143.28" style="stroke: #000000; stroke-width: 1.0;" width="10" x="260.5" y="616.88"/><rect fill="#FFFFFF" height="202.04" style="stroke: #000000; stroke-width: 1.0;" width="10" x="260.5" y="894.44"/><rect fill="#FFFFFF" height="116.52" style="stroke: #000000; stroke-width: 1.0;" width="10" x="580.5" y="244.8"/><rect fill="#FFFFFF" height="69.52" style="stroke: #000000; stroke-width: 1.0;" width="10" x="580.5" y="547.36"/><rect fill="#FFFFFF" height="203.8" style="stroke: #000000; stroke-width: 1.0;" width="10" x="580.5" y="760.16"/><line style="stroke: #000000; stroke-width: 1.0;" x1="258.5" x2="248.5" y1="175.28" y2="171.28"/><line style="stroke: #000000; stroke-width: 1.0;" x1="258.5" x2="248.5" y1="175.28" y2="179.28"/><line style="stroke: #000000; stroke-width: 1.0;" x1="52.5" x2="259.5" y1="175.28" y2="175.28"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="75" x="119" y="141.68">알람 등록 요청:</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="169" x="72" y="159.44">"오늘 오후 9 시에 알람 등록해줘."</text><line style="stroke: #000000; stroke-width: 1.0;" x1="578.5" x2="568.5" y1="244.8" y2="240.8"/><line style="stroke: #000000; stroke-width: 1.0;" x1="578.5" x2="568.5" y1="244.8" y2="248.8"/><line style="stroke: #000000; stroke-width: 1.0;" x1="265.5" x2="579.5" y1="244.8" y2="244.8"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="83" x="381.5" y="211.2">사용자 요청 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="245" x="300.5" y="228.96">(SpeechRecognizer.Recognize 이벤트 메시지)</text><line style="stroke: #000000; stroke-width: 1.0;" x1="590.5" x2="632.5" y1="296.56" y2="296.56"/><line style="stroke: #000000; stroke-width: 1.0;" x1="632.5" x2="632.5" y1="296.56" y2="309.56"/><line style="stroke: #000000; stroke-width: 1.0;" x1="591.5" x2="632.5" y1="309.56" y2="309.56"/><polygon fill="#000000" points="601.5,305.56,591.5,309.56,601.5,313.56,597.5,309.56" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="83" x="607.5" y="280.72">사용자 발화 분석</text><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="280.5" y1="361.32" y2="357.32"/><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="280.5" y1="361.32" y2="365.32"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="270.5" x2="584.5" y1="361.32" y2="361.32"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="168" x="344" y="345.48">Alerts.SetAlert 지시 메시지 전달</text><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="312.5" y1="413.08" y2="413.08"/><line style="stroke: #000000; stroke-width: 1.0;" x1="312.5" x2="312.5" y1="413.08" y2="426.08"/><line style="stroke: #000000; stroke-width: 1.0;" x1="271.5" x2="312.5" y1="426.08" y2="426.08"/><polygon fill="#000000" points="281.5,422.08,271.5,426.08,281.5,430.08,277.5,426.08" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="141" x="287.5" y="397.24">클라이언트 기기에 알람 등록</text><path d="M18,441.08 L94,441.08 L94,470.08 L84,480.08 L13,480.08 L13,446.08 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="647.4" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="699.5" x="13" y="441.08"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="16" x="38" y="466">alt</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="149" x="119" y="467">[알람 등록 결과 == 등록 실패]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="578.5" x2="568.5" y1="547.36" y2="543.36"/><line style="stroke: #000000; stroke-width: 1.0;" x1="578.5" x2="568.5" y1="547.36" y2="551.36"/><line style="stroke: #000000; stroke-width: 1.0;" x1="265.5" x2="579.5" y1="547.36" y2="547.36"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="213" x="316.5" y="531.52">Alerts.SetAlertFailed 이벤트 메시지 전송</text><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="280.5" y1="616.88" y2="612.88"/><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="280.5" y1="616.88" y2="620.88"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="270.5" x2="584.5" y1="616.88" y2="616.88"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="231" x="312.5" y="583.28">SpeechSynthesizer.Speak 지시 메시지 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="150" x="353" y="601.04">("알람을 등록하지 못했어요.")</text><line style="stroke: #000000; stroke-width: 1.0;" x1="52.5" x2="62.5" y1="668.64" y2="664.64"/><line style="stroke: #000000; stroke-width: 1.0;" x1="52.5" x2="62.5" y1="668.64" y2="672.64"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="52.5" x2="259.5" y1="668.64" y2="668.64"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="97" x="108" y="652.8">알람 등록 결과 전달</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="13" x2="712.5" y1="677.64" y2="677.64"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="149" x="28" y="701.56">[알람 등록 결과 == 등록 성공]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="578.5" x2="568.5" y1="760.16" y2="756.16"/><line style="stroke: #000000; stroke-width: 1.0;" x1="578.5" x2="568.5" y1="760.16" y2="764.16"/><line style="stroke: #000000; stroke-width: 1.0;" x1="265.5" x2="579.5" y1="760.16" y2="760.16"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="240" x="303" y="744.32">Alerts.SetAlertSucceeded 이벤트 메시지 전송</text><line style="stroke: #000000; stroke-width: 1.0;" x1="590.5" x2="632.5" y1="811.92" y2="811.92"/><line style="stroke: #000000; stroke-width: 1.0;" x1="632.5" x2="632.5" y1="811.92" y2="824.92"/><line style="stroke: #000000; stroke-width: 1.0;" x1="591.5" x2="632.5" y1="824.92" y2="824.92"/><polygon fill="#000000" points="601.5,820.92,591.5,824.92,601.5,828.92,597.5,824.92" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="83" x="607.5" y="796.08">사용자 알람 등록</text><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="280.5" y1="894.44" y2="890.44"/><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="280.5" y1="894.44" y2="898.44"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="270.5" x2="579.5" y1="894.44" y2="894.44"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="231" x="310" y="860.84">SpeechSynthesizer.Speak 지시 메시지 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="136" x="357.5" y="878.6">("알람이 등록되었습니다.")</text><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="280.5" y1="963.96" y2="959.96"/><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="280.5" y1="963.96" y2="967.96"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="270.5" x2="584.5" y1="963.96" y2="963.96"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="266" x="295" y="930.36">Actiontimer, Alarm, Reminder, Timer 템플릿 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="198" x="329" y="948.12">(Clova.RenderTemplate 지시 메시지)</text><line style="stroke: #000000; stroke-width: 1.0;" x1="270.5" x2="312.5" y1="1015.72" y2="1015.72"/><line style="stroke: #000000; stroke-width: 1.0;" x1="312.5" x2="312.5" y1="1015.72" y2="1028.72"/><line style="stroke: #000000; stroke-width: 1.0;" x1="271.5" x2="312.5" y1="1028.72" y2="1028.72"/><polygon fill="#000000" points="281.5,1024.72,271.5,1028.72,281.5,1032.72,277.5,1028.72" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="172" x="287.5" y="999.88">음성 출력 및 등록된 알람 내용 표시</text><line style="stroke: #000000; stroke-width: 1.0;" x1="52.5" x2="62.5" y1="1080.48" y2="1076.48"/><line style="stroke: #000000; stroke-width: 1.0;" x1="52.5" x2="62.5" y1="1080.48" y2="1084.48"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="52.5" x2="259.5" y1="1080.48" y2="1080.48"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="97" x="108" y="1064.64">알람 등록 결과 전달</text><!--
+@startuml
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR"
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CIC as cic #05D686
+
+
+user ->> client : 알람 등록 요청:\n"오늘 오후 9 시에 알람 등록해줘."
+
+activate client
+  client ->> cic : 사용자 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+deactivate client
+
+activate cic
+  cic -> cic : 사용자 발화 분석
+  cic - ->> client : Alerts.SetAlert 지시 메시지 전달
+deactivate cic
+
+activate client
+  client -> client : 클라이언트 기기에 알람 등록
+
+alt 알람 등록 결과 == 등록 실패
+
+  client ->> cic : Alerts.SetAlertFailed 이벤트 메시지 전송
+  deactivate client
+  activate cic
+
+    cic - ->> client : SpeechSynthesizer.Speak 지시 메시지 전달\n("알람을 등록하지 못했어요.")
+  deactivate cic
+  activate client
+    client - ->> user : 알람 등록 결과 전달
+
+else 알람 등록 결과 == 등록 성공
+
+  client ->> cic : Alerts.SetAlertSucceeded 이벤트 메시지 전송
+
+deactivate client
+
+activate cic
+  cic -> cic : 사용자 알람 등록
+  cic - ->> client : SpeechSynthesizer.Speak 지시 메시지 전달\n("알람이 등록되었습니다.")
+activate client
+  cic - ->> client :  Actiontimer, Alarm, Reminder, Timer 템플릿 전달\n(Clova.RenderTemplate 지시 메시지)
+deactivate cic
+
+  client -> client : 음성 출력 및 등록된 알람 내용 표시
+  client - ->> user : 알람 등록 결과 전달
+
+  end
+
+@enduml
+
+PlantUML version 1.2019.06(Sat May 25 02:10:25 KST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11+28
+Operating System: Mac OS X
+OS Version: 10.14.5
+Default Encoding: US-ASCII
+Language: en
+Country: KR
+--></g></svg>

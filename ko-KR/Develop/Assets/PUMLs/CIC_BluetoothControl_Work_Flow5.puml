@@ -1,0 +1,12 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+participant 클라이언트 as client #9EA0CA
+participant "CLOVA" as clova #05D686
+
+hnote over client, clova : 블루투스 기기 삭제 요청
+activate clova
+  clova ->> client : DeviceControl.BtDelete (with payload)\n지시 메시지 전송
+  activate client
+  client -->> clova : DeviceControl.ActionExecuted (with DeviceState)\n이벤트 메시지 전송
+  deactivate client
+hnote over client, clova : 기기 삭제 결과 공유

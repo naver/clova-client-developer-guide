@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="533px" preserveAspectRatio="none" style="width:676px;height:533px;" version="1.1" viewBox="0 0 676 533" width="676px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="348.8594" style="stroke: #000000; stroke-width: 1.0;" width="10" x="211.5" y="154.9648"/><rect fill="#FFFFFF" height="66.9648" style="stroke: #000000; stroke-width: 1.0;" width="10" x="360.5" y="272.4121"/><rect fill="#FFFFFF" height="184.4121" style="stroke: #000000; stroke-width: 1.0;" width="10" x="631.5" y="205.4473"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="40" x2="40" y1="102.4824" y2="521.8242"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="216" x2="216" y1="102.4824" y2="521.8242"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="365" x2="365" y1="102.4824" y2="521.8242"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="636.5" x2="636.5" y1="102.4824" y2="521.8242"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="18" y="89.8457">사용자</text><ellipse cx="40.5" cy="13" fill="#9EA0CA" rx="8" ry="8" style="stroke: #000000; stroke-width: 2.0;"/><path d="M40.5,21 L40.5,48 M27.5,29 L53.5,29 M40.5,48 L27.5,63 M40.5,48 L53.5,63 " fill="none" style="stroke: #000000; stroke-width: 2.0;"/><rect fill="#9EA0CA" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="93" x="170" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="187" y="81.4063">CLOVA 앱</text><rect fill="#9EA0CA" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="143" x="294" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="109" x="311" y="81.4063">클라이언트 기기</text><rect fill="#05D686" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="58" x="607.5" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="24" x="624.5" y="81.4063">CIC</text><rect fill="#FFFFFF" height="348.8594" style="stroke: #000000; stroke-width: 1.0;" width="10" x="211.5" y="154.9648"/><rect fill="#FFFFFF" height="66.9648" style="stroke: #000000; stroke-width: 1.0;" width="10" x="360.5" y="272.4121"/><rect fill="#FFFFFF" height="184.4121" style="stroke: #000000; stroke-width: 1.0;" width="10" x="631.5" y="205.4473"/><line style="stroke: #000000; stroke-width: 1.0;" x1="209.5" x2="199.5" y1="154.9648" y2="150.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="209.5" x2="199.5" y1="154.9648" y2="158.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="40.5" x2="210.5" y1="154.9648" y2="154.9648"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="132" x="60" y="140.3281">기기 현재 설정 정보 조회</text><line style="stroke: #000000; stroke-width: 1.0;" x1="629.5" x2="619.5" y1="205.4473" y2="201.4473"/><line style="stroke: #000000; stroke-width: 1.0;" x1="629.5" x2="619.5" y1="205.4473" y2="209.4473"/><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="630.5" y1="205.4473" y2="205.4473"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="171" x="341" y="190.8105">기기 현재 설정 정보 동기화 요청</text><line style="stroke: #000000; stroke-width: 1.0;" x1="370.5" x2="380.5" y1="272.4121" y2="268.4121"/><line style="stroke: #000000; stroke-width: 1.0;" x1="370.5" x2="380.5" y1="272.4121" y2="276.4121"/><line style="stroke: #000000; stroke-width: 1.0;" x1="370.5" x2="630.5" y1="272.4121" y2="272.4121"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="144" x="429" y="241.293">기기의 현재 설정 정보 요청</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="222" x="390" y="257.7754">(Settings.ExpectReport 지시 메시지 전송)</text><line style="stroke: #000000; stroke-width: 1.0;" x1="629.5" x2="619.5" y1="339.377" y2="335.377"/><line style="stroke: #000000; stroke-width: 1.0;" x1="629.5" x2="619.5" y1="339.377" y2="343.377"/><line style="stroke: #000000; stroke-width: 1.0;" x1="365.5" x2="630.5" y1="339.377" y2="339.377"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="144" x="426.5" y="308.2578">기기의 현재 설정 정보 보고</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="198" x="399.5" y="324.7402">(Settings.Report 이벤트 메시지 전송)</text><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="231.5" y1="389.8594" y2="385.8594"/><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="231.5" y1="389.8594" y2="393.8594"/><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="635.5" y1="389.8594" y2="389.8594"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="183" x="337.5" y="375.2227">기기의 현재 설정 정보 동기화 지시</text><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="263.5" y1="440.3418" y2="440.3418"/><line style="stroke: #000000; stroke-width: 1.0;" x1="263.5" x2="263.5" y1="440.3418" y2="453.3418"/><line style="stroke: #000000; stroke-width: 1.0;" x1="222.5" x2="263.5" y1="453.3418" y2="453.3418"/><polygon fill="#000000" points="232.5,449.3418,222.5,453.3418,232.5,457.3418,228.5,453.3418" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="105" x="238.5" y="425.7051">기기 설정 정보 갱신</text><line style="stroke: #000000; stroke-width: 1.0;" x1="40.5" x2="50.5" y1="503.8242" y2="499.8242"/><line style="stroke: #000000; stroke-width: 1.0;" x1="40.5" x2="50.5" y1="503.8242" y2="507.8242"/><line style="stroke: #000000; stroke-width: 1.0;" x1="40.5" x2="215.5" y1="503.8242" y2="503.8242"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="105" x="76" y="489.1875">기기 설정 정보 제공</text><!--
+@startuml
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR", sans-serif
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+actor 사용자 as user
+participant "CLOVA 앱" as ca #9EA0CA
+participant "클라이언트 기기" as cli #9EA0CA
+participant CIC as cic #05D686
+
+user ->> ca: 기기 현재 설정 정보 조회
+
+activate ca
+
+  ca ->> cic: 기기 현재 설정 정보 동기화 요청
+
+  activate cic
+
+    cic ->> cli: 기기의 현재 설정 정보 요청\n(Settings.ExpectReport 지시 메시지 전송)
+  
+    activate cli
+    
+      cli ->> cic: 기기의 현재 설정 정보 보고\n(Settings.Report 이벤트 메시지 전송)
+    
+    deactivate cli
+
+    cic ->> ca: 기기의 현재 설정 정보 동기화 지시
+
+  deactivate cic
+    
+  ca -> ca: 기기 설정 정보 갱신
+  
+  ca ->> user: 기기 설정 정보 제공
+
+deactivate ca
+
+@enduml
+
+PlantUML version 1.2018.12(Sun Oct 21 19:15:15 KST 2018)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_191-b12
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: MS949
+Language: ko
+Country: KR
+--></g></svg>
