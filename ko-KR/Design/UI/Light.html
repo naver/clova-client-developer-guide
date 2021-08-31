@@ -1,0 +1,159 @@
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+  <article id="0b5198d6-a076-461a-b762-71490b148873" class="page sans notion-content">
+    <h1 class="page-title">조명</h1>
+    <div class="page-body">
+      <p id="822b08b2-9730-4de3-b72c-9ccd0b58c313" class="">클라이언트 기기는 <a href="/Design/UI/Client_State_And_Event.md">클라이언트 상태 및 이벤트</a>나 사용자 요청의 피드백과 같은 것을 표현하기 위해 조명을 제공해야 합니다. 클라이언트가 사용자에게 어떤 조명을 어떻게 제공해야 하는지 설명합니다.</p>
+      <nav id="6b56d10c-e457-42bc-ac5a-77aec98df0e8" class="block-color-gray table_of_contents">
+        <div class="table_of_contents-item table_of_contents-indent-0"><a class="table_of_contents-link" href="#LightColor">조명 색상</a></div>
+        <div class="table_of_contents-item table_of_contents-indent-0"><a class="table_of_contents-link" href="#LightEffect">조명 효과</a></div>
+        <div class="table_of_contents-item table_of_contents-indent-0"><a class="table_of_contents-link" href="#LightExpression">조명 표현</a></div>
+        <div class="table_of_contents-item table_of_contents-indent-0"><a class="table_of_contents-link" href="#LightGuideline">조명 가이드라인</a></div>
+      </nav>
+      <hr id="dc21888a-cff0-4a32-9a9c-ce7e65b0864b" />
+      <h2 id="LightColor" class="">조명 색상</h2>
+      <p id="42127396-19b1-4368-a8b7-49d386ee870f" class="">클라이언트는 다음과 같은 조명 색상을 사용해야 합니다.</p>
+      <div id="203d83cf-4b31-4563-988f-aaa1c0bd4dc1" class="column-list">
+        <div id="6b1d8327-59f8-4c3a-a7d6-1f3cb578d747" style="width:25%" class="column">
+          <figure id="1223f715-037c-4787-a50a-8ff23d02fed2" class="image"><a href="Light/Untitled-1.png"><img style="width:1634px" src="Light/Untitled-1.png" /></a></figure>
+          <blockquote id="59fba219-2b04-4465-8cf1-373ff955c4f2" class=""><strong>Green</strong><br />R5 G214 B134, #05D686<br /><mark class="highlight-gray">음성 입력 수신</mark></blockquote>
+        </div>
+        <div id="7de5edba-3825-4775-9af2-42de4d4d23b4" style="width:25%" class="column">
+          <figure id="21e25be3-9758-4f50-a731-1f95fe7c079a" class="image"><a href="Light/Untitled-1%201.png"><img style="width:1634px" src="Light/Untitled-1%201.png" /></a></figure>
+          <blockquote id="adeeb3ce-4152-466d-939a-a27add5e2aa0" class=""><strong>Yellow Green</strong><br />R50 G255 B0, #96FF00<br /><mark class="highlight-gray">CLOVA 알림(Notification)</mark></blockquote>
+          <p id="7c19b7ae-dc0d-4a01-91e0-b1df93549fef" class="">
+          </p>
+        </div>
+        <div id="3e5135ee-37d7-4ba8-bdff-87e98c603a68" style="width:25%" class="column">
+          <figure id="0f480598-1a68-4cfc-beae-6ab5fa9b5c83" class="image"><a href="Light/Untitled-1%202.png"><img style="width:1634px" src="Light/Untitled-1%202.png" /></a></figure>
+          <blockquote id="a5df5ab9-b7de-4250-973c-171dfa3211d0" class=""><strong>Red</strong><br />R255 G0 B0, #FF0000<br /><mark class="highlight-gray">마이크 음소거, 네트워크 연결 오류, 배터리 부족과 같은 오류 상황</mark></blockquote>
+        </div>
+        <div id="7fb5c63b-3c0e-4d65-be74-d12b7ededaa6" style="width:25%" class="column">
+          <figure id="4b1140ef-cbe8-46f1-8582-5d09da2b8346" class="image"><a href="Light/Untitled-1%203.png"><img style="width:1634px" src="Light/Untitled-1%203.png" /></a></figure>
+          <blockquote id="60b6f1f2-c47c-49f6-b317-a77a59871b5d" class=""><strong>Warm White</strong><br />R240 G230 B230, #F0E6E6<br /><mark class="highlight-gray">스피커를 통한 CLOVA 음성 출력, 알람/리마인더/타이머 이벤트 수신</mark></blockquote>
+        </div>
+      </div>
+      <hr id="f4600e65-0e7e-4044-ac06-908b451012d5" />
+      <p id="de2bb355-a654-4fd4-8071-a0acb4dde876" class="">다음은 조명 색상 적용 사례입니다.</p>
+      <div id="f3dcc5e5-fcc7-46cc-a9d9-94e2e300d2aa" class="column-list">
+        <div id="7af740fc-da4e-4672-8984-4cfb473ac804" style="width:50%" class="column">
+          <figure id="5a3206ef-dc9b-45ea-81a4-d8e91578530e" class="image"><a href="Light/brown_light_on_green.png"><img style="width:700px" src="Light/brown_light_on_green.png" /></a></figure>
+          <blockquote id="83f75ae4-55ec-48b7-99bd-aa057c20d0da" class=""><strong>Green</strong></blockquote>
+          <figure id="23e47270-58f3-4b31-9bfd-4b9dc9968817" class="image"><a href="Light/brown_light_on_red.png"><img style="width:700px" src="Light/brown_light_on_red.png" /></a></figure>
+          <blockquote id="378442ba-f98f-4ca8-a2ae-66cf1cae0374" class=""><strong>Red</strong></blockquote>
+        </div>
+        <div id="894ad612-735c-4647-8c04-f75dba4204e2" style="width:50%" class="column">
+          <figure id="d0c68a7c-28b3-4c73-aeb5-eab77de8584f" class="image"><a href="Light/brown_light_on_yellow_green.png"><img style="width:700px" src="Light/brown_light_on_yellow_green.png" /></a></figure>
+          <blockquote id="b7221874-538d-417e-b779-75991fc9d976" class=""><strong>Yellow Green</strong></blockquote>
+          <figure id="ae4db286-3872-4840-b6ef-9e5cf240e603" class="image"><a href="Light/brown_light_on_warm_white.png"><img style="width:700px" src="Light/brown_light_on_warm_white.png" /></a></figure>
+          <blockquote id="76f5ddbd-4dd8-4095-aa8f-07aa0e98f7fd" class=""><strong>Warm White</strong></blockquote>
+        </div>
+      </div>
+      <hr id="cd53cbb0-f39c-4a9f-9701-eccfeb1bbe98" />
+      <h2 id="LightEffect" class=""><strong>조명 효과</strong></h2>
+      <p id="c0baac9b-9d49-4778-bcb5-dfbdbf30cb63" class="">조명 효과는 <a href="#LightColor">조명 색상</a>이 전달하는 의미를 바탕으로 좀 더 상세한 의미나 상태를 전달하는 용도로 사용됩니다. 다음은 클라이언트 기기 구현 시 조명이 나타내야 할 조명 효과와 이에 대한 설명 및 예시를 제공하는 표입니다.</p>
+      <div id="fb51e583-fff5-43de-bef6-37cca4938932" class="column-list">
+        <div id="c5c0f93d-a5e7-4235-8845-1dcea8fd1d93" style="width:50%" class="column">
+          <figure id="2fc166fe-1a35-413d-abc5-c50230dbc618" class="image"><a href="Light/selly_lights_up.gif"><img style="width:700px" src="Light/selly_lights_up.gif" /></a></figure>
+          <blockquote id="bb8ec4d2-d87c-4575-92e4-a667fe70e2dc" class=""><strong>점등(Lights up)</strong><br />특별한 효과 없이 조명을 바로 켠 상태로 전환합니다.</blockquote>
+        </div>
+        <div id="b51c9758-aa21-4f92-9080-57e807039747" style="width:50%" class="column">
+          <figure id="2251e376-7c9e-4ddc-8b59-6837656237d8" class="image"><a href="Light/selly_fade_repeat_pulse.gif"><img style="width:700px" src="Light/selly_fade_repeat_pulse.gif" /></a></figure>
+          <blockquote id="768dd09c-1381-4da7-a19f-4049d0faa792" class=""><strong>천천히 점멸 반복(Repeat pulse)</strong><br />조명의 조도를 천천히 높였다가 낮추는 것을 반복합니다.</blockquote>
+        </div>
+      </div>
+      <div id="d1bfb68e-cc57-4557-b4aa-517ccb936b69" class="column-list">
+        <div id="6fae2783-7366-4cfa-b060-aaf1bd81d556" style="width:50%" class="column">
+          <figure id="23e9b1fc-ad7a-4dd5-a311-4311498986c0" class="image"><a href="Light/selly_fade_out.gif"><img style="width:700px" src="Light/selly_fade_out.gif" /></a></figure>
+          <blockquote id="cbce14e0-7826-473a-9da8-19831d712120" class=""><strong>천천히 소등(Fade out)</strong><br />조명의 조도를 천천히 낮추면서 마지막에 조명을 끕니다.</blockquote>
+        </div>
+        <div id="39f7ac27-faa3-4539-84a4-0cbafb5ae295" style="width:50%" class="column">
+          <figure id="435b7b2b-8300-433d-9674-abb70889854f" class="image"><a href="Light/selly_repeat_splash.gif"><img style="width:700px" src="Light/selly_repeat_splash.gif" /></a></figure>
+          <blockquote id="c33c37d6-7f59-441e-b707-29ecadb85e3d" class=""><strong>물결 표현 반복(Repeat Splash)</strong><br />조명이 좌우로 출렁이는 물결이 느껴지도록 조명 효과를 반복합니다</blockquote>
+        </div>
+      </div>
+      <hr id="7e8bf3cb-b019-447c-9617-474e3eaaa33e" />
+      <h2 id="LightExpression" class=""><strong>조명 표현</strong></h2>
+      <p id="45e35e8e-6461-4ef6-b664-8e90b73ac84a" class="">다음은 클라이언트의 상태 및 이벤트를 조명으로 어떻게 표현해야 하는지 설명합니다.</p>
+      <div id="48f7097d-9af7-411f-b578-bae35b1d946c" class="column-list">
+        <div id="a64854da-bf06-48ad-875c-0922bed5219a" style="width:50%" class="column">
+          <ul id="ef0203a9-5ba2-420d-912c-6a9c4d136130" class="bulleted-list">
+            <li><strong>Attending, listening 상태</strong> <mark class="highlight-gray">필수</mark><br />Green 조명 점등</li>
+          </ul>
+        </div>
+        <div id="d4286f4a-a546-4372-9b87-4f339f9a9659" style="width:50%" class="column">
+          <ul id="fc12d469-f7d4-4a30-9684-edb0c8120a87" class="bulleted-list">
+            <li><strong>Idle 상태 진입</strong> <mark class="highlight-gray">필수</mark><br />Warm White 조명 천천히 소등</li>
+          </ul>
+        </div>
+      </div>
+      <div id="f18ac611-9ef7-45aa-9c71-af1c4898f6c1" class="column-list">
+        <div id="d14fa643-ba16-41c4-b9c1-f3cae3a0d74a" style="width:50%" class="column">
+          <ul id="9b537101-35b6-489d-baeb-345537df3f5c" class="bulleted-list">
+            <li><strong>Error 상태</strong> <mark class="highlight-gray">필수</mark><br />Red 조명 천천히 점멸 반복</li>
+          </ul>
+        </div>
+        <div id="91d6f63d-b87e-4fd3-bc10-9a9b1aa7fd1a" style="width:50%" class="column">
+          <ul id="965aa032-f667-4457-97ea-e5af04d2d5c2" class="bulleted-list">
+            <li><strong>마이크 꺼짐(Mic. off) 상태</strong> <mark class="highlight-gray">필수</mark><br />Red 조명 점등</li>
+          </ul>
+        </div>
+      </div>
+      <div id="91c65bdd-c5bb-4bb7-a24c-1a0266d53301" class="column-list">
+        <div id="842fccd8-6d1d-4ab1-9492-9856cb092e2a" style="width:50%" class="column">
+          <ul id="8a35747d-06ed-422a-9047-ea5a0400cb2b" class="bulleted-list">
+            <li><strong>Processing &amp; reporting 상태</strong> <mark class="highlight-gray">필수</mark><br />Warm White 조명 천천히 점멸 반복</li>
+          </ul>
+        </div>
+        <div id="25a4dfbd-4387-4966-8d29-a03d4387cb26" style="width:50%" class="column">
+          <ul id="174164e7-c593-4d65-a61b-766656c802e8" class="bulleted-list">
+            <li><strong>마이크 꺼짐(Mic. off) 상태 해제</strong> <mark class="highlight-gray">필수</mark><br />Red 조명 천천히 소등</li>
+          </ul>
+        </div>
+      </div>
+      <div id="5638691f-bc18-48e1-8c0a-6db86f98f2b5" class="column-list">
+        <div id="9eaa889a-e78d-4f2f-9ce3-35c11a0c4d71" style="width:50%" class="column">
+          <ul id="0813b0f4-16c5-4348-bae5-b4e8a984363e" class="bulleted-list">
+            <li><strong>대기 시간 초과한 직후</strong> <mark class="highlight-gray">선택</mark><br />Green 조명 천천히 소등</li>
+          </ul>
+        </div>
+        <div id="039ee1fe-152e-49a6-9744-3de52b20efa6" style="width:50%" class="column">
+          <ul id="52a87917-eefb-42ee-ad94-b83cb607b400" class="bulleted-list">
+            <li><strong>알람, 리마인더, 타이머 시작</strong> <mark class="highlight-gray">필수</mark><br />Warm White 조명 물결 표현 반복</li>
+          </ul>
+        </div>
+      </div>
+      <hr id="def79219-9281-4e32-bc64-19b00509d08b" />
+      <h2 id="2465068d-1b7a-42b9-bb43-d296b48c16e3" class=""><strong>조명 가이드라인</strong></h2>
+      <p id="72805126-dc41-4035-9e27-f6d1ff56929e" class="">조명을 제공할 때 다음과 같은 사항을 따라야 합니다.</p>
+      <ul id="d1000e1c-921b-437c-8155-095d2e9bead9" class="bulleted-list">
+        <li>1m 내의 거리에서 시력이 0.7인 사람이 <a href="#LightColor">조명 색상</a>을 구분할 수 있어야 합니다.</li>
+      </ul>
+      <ul id="be7eae1d-1954-48de-9a3d-4b28a999370f" class="bulleted-list">
+        <li>조명 색상에 정의된 의미 외에 다른 상태나 의미를 적용하지 않을 것을 권고합니다.</li>
+      </ul>
+      <ul id="d0a70987-f51e-43a7-adaa-697d0f119007" class="bulleted-list">
+        <li>사용자가 그래픽 RGB 값의 색과 조명 색상이 동일하다고 인지할 수 있도록 조명 색상을 적용해야 합니다.</li>
+      </ul>
+      <ul id="5e235571-4a48-470b-8879-92c23b92b5b0" class="bulleted-list">
+        <li>필수로 표현해야 하는 <a href="#LightEffect">조명 효과</a> 외에도 기기 부팅, 스피커 볼륨 조절, 충전 상태, 버튼 피드백과 같이 상황에 적절하거나 제조사의 UX 정책에 따라 조명 색상과 조명 효과를 추가할 수 있습니다.</li>
+      </ul>
+      <ul id="8445a472-aae8-4cd8-9d24-75f9ab9a127c" class="bulleted-list">
+        <li>하나의 조명 색상이나 효과에 너무 많은 의미나 상태를 표현하지 않을 것을 권고합니다.</li>
+      </ul>
+      <ul id="d8c7f7a5-8ab7-4949-ab1f-a34927e5615d" class="bulleted-list">
+        <li>화면이 제공되지 않는 기기는 조명의 밝기와 같은 것을 이용하여 기기의 스피커 볼륨 수준을 표시할 것을 권고합니다.</li>
+      </ul>
+      <ul id="5ede3ff2-2466-47ad-956e-2a53d0bc4f2a" class="bulleted-list">
+        <li>이동이 가능한 배터리 탑재 모델은 배터리 충전 상태를 조명으로 파악할 수 있게 구현할 것을 권고합니다.</li>
+      </ul>
+    </div>
+  </article>
+</body>
+
+</html>

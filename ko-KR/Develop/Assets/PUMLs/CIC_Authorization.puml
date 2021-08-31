@@ -1,0 +1,62 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+participant "GUI 미제공 클라이언트" as device #9EA0CA
+participant "GUI 제공 클라이언트" as app #9EA0CA
+participant "NAVER 인증 서버" as nauth #05D686
+participant "클라이언트 인증 서버" as cauth #05D686
+participant CIC as cic #05D686
+
+activate app
+  app -> app: NAVER 로그인
+
+  app ->> nauth: NAVER 계정 정보 전달
+
+  activate nauth
+    nauth -->> app: NAVER 계정\naccess token 전달
+  deactivate nauth
+
+  app ->> cauth: authorization code 요청(다음 정보를 전달)\l- NAVER 계정 access token\l- 클라이언트 인증 정보(CLOVA_OAUTH_CLIENT_ID)
+
+activate cauth
+
+deactivate app
+
+alt "사용자 약관 동의 여부" == "동의 완료한 상태"
+    cauth -->> app: authorization code 전달(200 OK)
+    activate app
+    deactivate app
+else "사용자 약관 동의 여부" == "동의하지 않은 상태"
+  cauth -->> app: authorization, redirect_uri 전달\l(451 Unavailable For Legal Reasons)
+  activate app
+    app -> app: 이용 약관 페이지(redirect_uri)로 이동
+    app ->> cauth: 사용자의 이용 약관 동의 결과 전송(submit)
+    cauth -->> app: 결과 전달(302 Found)\l- 성공: clova://agreement-success\l- 실패: clova://agreement-failure
+  deactivate cauth
+end
+
+alt "클라이언트 타입" == "GUI 제공 클라이언트"
+  app ->> cauth: CLOVA access token 요청, 다음 정보를 전달\l- NAVER 계정 access token\l- 클라이언트 인증 정보\l  (CLOVA_OAUTH_CLIENT_ID, CLOVA_OAUTH_CLIENT_SECRET)
+
+  activate cauth
+    cauth -->> app: CLOVA access token 전달
+  deactivate cauth
+
+  app ->> cic: CLOVA access token을 사용하여 CIC와 연결 시작
+  activate cic
+  deactivate cic
+
+else "클라이언트 타입" == "GUI 미제공 클라이언"
+  app ->> device: authorization code 전달
+  deactivate app
+
+  activate device
+    device ->> cauth: CLOVA access token 요청, 다음 정보를 전달\l- NAVER 계정 access token\l- 클라이언트 인증 정보\l  (CLOVA_OAUTH_CLIENT_ID, CLOVA_OAUTH_CLIENT_SECRET)
+
+    activate cauth
+        cauth -->> device: CLOVA access token 전달
+    deactivate cauth
+
+    device ->> cic: CLOVA access token을 사용하여 CIC와 연결 시작
+
+    activate cic
+  end

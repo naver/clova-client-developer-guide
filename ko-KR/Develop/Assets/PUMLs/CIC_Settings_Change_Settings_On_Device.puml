@@ -1,0 +1,26 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant "CLOVA 앱" as ca #9EA0CA
+participant "클라이언트 기기" as cli #9EA0CA
+participant CIC as cic #05D686
+
+user ->> cli: 기기 설정 변경
+
+activate cli
+    cli ->> cic: 기기의 현재 설정 정보 보고\n(Settings.Report 이벤트 메시지 전송)
+  
+deactivate cli
+
+activate cic
+
+  cic ->> ca: 변경된 설정 정보로 동기화 지시
+
+deactivate cic
+
+activate ca
+
+  ca -> ca: 기기 설정 정보 갱신
+  ca ->> user: 기기 설정 정보 제공
+  
+deactivate ca

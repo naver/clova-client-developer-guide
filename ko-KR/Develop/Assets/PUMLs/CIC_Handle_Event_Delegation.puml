@@ -1,0 +1,29 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+participant "CLOVA 앱" as ca #9EA0CA
+participant "클라이언트 기기" as cli #9EA0CA
+participant CIC as cic #05D686
+
+activate ca
+  ca ->> cic : 사용자 요청 전달 및 요청 처리 위임
+deactivate ca
+
+activate cic
+
+  cic ->> cli : 위임 처리를 지시 (Clova.HandleDelegatedEvent 지시 메시지, downchannel 사용)
+
+deactivate cic
+
+activate cli
+
+  cli ->> cic : 위임된 사용자 요청을 처리하도록 요청(Clova.ProcessDelegatedEvent 이벤트 메시지)
+
+deactivate cli
+
+activate cic
+    cic -> cic : 사용자 요청 처리
+    cic -->> cli : 사용자 요청이 처리된 지시 메시지 전달
+deactivate cic
+
+activate cli
+  cli -> cli : 일반적인 지시 메시지 처리

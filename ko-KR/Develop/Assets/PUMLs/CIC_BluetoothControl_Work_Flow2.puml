@@ -1,0 +1,38 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+participant "블루투스 기기" as device #9EA0CA
+participant 클라이언트 as client #9EA0CA
+participant "CLOVA" as clova #05D686
+
+activate clova
+activate device
+hnote over device, clova : 블루투스 기기 연결 요청
+ alt 특정 기기 지정 == 예
+	clova ->> client : DeviceControl.BtConnect (with payload)\n지시 메시지 전송
+
+	activate client
+ else 특정 기기 지정 == 아니오
+    clova ->> client : DeviceControl.BtConnect (without payload)\n지시 메시지 전송
+end
+
+  client ->> device : 연결 요청
+  client -->> clova : DeviceControl.ActionExecuted (with DeviceState)\n이벤트 메시지 전송
+
+	deactivate client
+opt 연결하려는 기기가 PIN 코드를 요구한 경우
+	device ->> client : PIN 코드 요청
+
+	activate client
+
+  group "사용자의 핀코드 입력"
+    client ->> clova : DeviceControl.BtRequestForPINCode\n이벤트 메시지 전송
+    hnote over client, clova : 사용자 PIN 코드 입력 처리
+    clova ->> client : DeviceControl.BtConnectByPINCode\n지시 메시지 전송
+  end
+  client ->> device : PIN 코드로 접속 요청
+  client ->> clova: DeviceControl.ActionExecuted\n이벤트 메시지 전송
+	device -->> client : 기기 접속 수락
+  client ->> clova : DeviceControl.ReportState\n이벤트 메시지 전송
+deactivate client
+end
+hnote over device, clova : 연결 결과 공유

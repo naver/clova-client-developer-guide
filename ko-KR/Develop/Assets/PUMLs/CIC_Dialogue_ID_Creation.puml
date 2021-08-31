@@ -1,0 +1,51 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CIC as cic #05D686
+
+user ->> client: "클래식 음악 들려줘"
+
+activate client
+
+  client -> client: 대화 ID(A) 생성
+
+  alt 음성 요청
+
+    client ->> cic: SpeechRecognizer.Recognize 이벤트 메시지 전송\n(header.dialogRequestId: A)
+
+  else 텍스트 요청
+
+    client ->> cic: TextRecognizer.Recognize 이벤트 메시지 전송\n(header.dialogRequestId: A)
+
+  end
+
+  client -> client: 마지막 대화 ID 갱신
+
+  note left: lastDialogueID: A
+
+  ... 요청 처리 중 ...
+
+user -->> client: "현재 날씨 알려줘"
+
+  client -> client: 대화 ID(B) 생성
+
+  alt 작업 정상 처리
+
+    client ->> cic: SpeechRecognizer.Recognize 이벤트 메시지 전송\n(header.dialogRequestId: B)
+
+    client -> client: 마지막 대화 ID 갱신
+
+    note left: lastDialogueID: B
+
+    client -> client: 이전 대화 ID(A)와 관련된 작업 처리 중지
+
+    client -> client: 대화 ID(A)와 관련된 지시 메시지 큐에서 폐기
+
+  else 예외 상황 발생으로 인한 이벤트 메시지 전송 취소
+
+    client -> client: 대화 ID(A)에 관련된 작업 처리 (계속)
+
+    note left: lastDialogueID: A
+
+  end

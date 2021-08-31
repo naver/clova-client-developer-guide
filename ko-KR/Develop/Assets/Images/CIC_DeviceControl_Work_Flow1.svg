@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="955px" preserveAspectRatio="none" style="width:692px;height:955px;" version="1.1" viewBox="0 0 692 955" width="692px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="66.9648" style="stroke: #000000; stroke-width: 1.0;" width="10" x="211.5" y="171.4473"/><rect fill="#FFFFFF" height="447.8242" style="stroke: #000000; stroke-width: 1.0;" width="10" x="211.5" y="485.2715"/><rect fill="#FFFFFF" height="402.7891" style="stroke: #000000; stroke-width: 1.0;" width="10" x="530.5" y="238.4121"/><rect fill="#FFFFFF" height="110.9648" style="stroke: #000000; stroke-width: 1.0;" width="10" x="530.5" y="822.1309"/><rect fill="#FFFFFF" height="559.7539" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="571.5" x="13" y="366.3418"/><rect fill="#FFFFFF" height="382.3418" style="stroke: none; stroke-width: 1.0;" width="571.5" x="13" y="543.7539"/><rect fill="#FFFFFF" height="199.4121" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="422.5" x="152" y="719.6836"/><rect fill="#FFFFFF" height="88.9648" style="stroke: none; stroke-width: 1.0;" width="422.5" x="152" y="830.1309"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="55" x2="55" y1="102.4824" y2="943.0957"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="216" x2="216" y1="102.4824" y2="943.0957"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="535.5" x2="535.5" y1="102.4824" y2="943.0957"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="33" y="89.8457">사용자</text><ellipse cx="55.5" cy="13" fill="#9EA0CA" rx="8" ry="8" style="stroke: #000000; stroke-width: 2.0;"/><path d="M55.5,21 L55.5,48 M42.5,29 L68.5,29 M55.5,48 L42.5,63 M55.5,48 L68.5,63 " fill="none" style="stroke: #000000; stroke-width: 2.0;"/><rect fill="#9EA0CA" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="109" x="162" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="75" x="179" y="81.4063">클라이언트</text><rect fill="#05D686" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="58" x="506.5" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="24" x="523.5" y="81.4063">CIC</text><rect fill="#FFFFFF" height="66.9648" style="stroke: #000000; stroke-width: 1.0;" width="10" x="211.5" y="171.4473"/><rect fill="#FFFFFF" height="447.8242" style="stroke: #000000; stroke-width: 1.0;" width="10" x="211.5" y="485.2715"/><rect fill="#FFFFFF" height="402.7891" style="stroke: #000000; stroke-width: 1.0;" width="10" x="530.5" y="238.4121"/><rect fill="#FFFFFF" height="110.9648" style="stroke: #000000; stroke-width: 1.0;" width="10" x="530.5" y="822.1309"/><line style="stroke: #000000; stroke-width: 1.0;" x1="209.5" x2="199.5" y1="171.4473" y2="167.4473"/><line style="stroke: #000000; stroke-width: 1.0;" x1="209.5" x2="199.5" y1="171.4473" y2="175.4473"/><line style="stroke: #000000; stroke-width: 1.0;" x1="55.5" x2="210.5" y1="171.4473" y2="171.4473"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="117" x="75" y="140.3281">클라이언트 제어 요청:</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="60" x="103.5" y="156.8105">"GPS 켜줘"</text><line style="stroke: #000000; stroke-width: 1.0;" x1="528.5" x2="518.5" y1="238.4121" y2="234.4121"/><line style="stroke: #000000; stroke-width: 1.0;" x1="528.5" x2="518.5" y1="238.4121" y2="242.4121"/><line style="stroke: #000000; stroke-width: 1.0;" x1="216.5" x2="529.5" y1="238.4121" y2="238.4121"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="270" x="238.5" y="207.293">SpeechRecognizer.Recognize 이벤트 메시지 전송</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="221" x="263" y="223.7754">(Device.DeviceState 맥락 정보 필수 포함)</text><line style="stroke: #000000; stroke-width: 1.0;" x1="540.5" x2="582.5" y1="338.3418" y2="338.3418"/><line style="stroke: #000000; stroke-width: 1.0;" x1="582.5" x2="582.5" y1="338.3418" y2="351.3418"/><line style="stroke: #000000; stroke-width: 1.0;" x1="541.5" x2="582.5" y1="351.3418" y2="351.3418"/><polygon fill="#000000" points="551.5,347.3418,541.5,351.3418,551.5,355.3418,547.5,351.3418" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="123" x="557.5" y="274.2578">클라이언트가 지원하는</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="75" x="557.5" y="290.7402">동작인지 분석</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="121" x="557.5" y="307.2227">(Device.DeviceState의</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="104" x="557.5" y="323.7051">actions[] 필드 분석)</text><path d="M18,366.3418 L92,366.3418 L92,394.3418 L82,404.3418 L13,404.3418 L13,371.3418 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="559.7539" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="571.5" x="13" y="366.3418"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="14" x="38" y="391.1875">alt</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="180" x="117" y="392.1875">[요청 동작 지원 여부 == 아니오]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="231.5" y1="485.2715" y2="481.2715"/><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="231.5" y1="485.2715" y2="489.2715"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="221.5" x2="529.5" y1="485.2715" y2="485.2715"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="236" x="258" y="454.1523">SpeechSynthesizer.Speak 지시 메시지 전송</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="157" x="297.5" y="470.6348">("지원하지 않는 동작입니다.")</text><line style="stroke: #000000; stroke-width: 1.0;" x1="55.5" x2="65.5" y1="535.7539" y2="531.7539"/><line style="stroke: #000000; stroke-width: 1.0;" x1="55.5" x2="65.5" y1="535.7539" y2="539.7539"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="55.5" x2="210.5" y1="535.7539" y2="535.7539"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="90" x="88.5" y="521.1172">음성 메시지 출력</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="13" x2="584.5" y1="544.7539" y2="544.7539"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="154" x="28" y="568.5996">[요청 동작 지원 여부 == 네]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="231.5" y1="641.2012" y2="637.2012"/><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="231.5" y1="641.2012" y2="645.2012"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="221.5" x2="534.5" y1="641.2012" y2="641.2012"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="180" x="288.5" y="610.082">클라이언트 제어 지시 메시지 전송</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="195" x="281" y="626.5645">(DeviceControl.TurnOn 지시 메시지)</text><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="263.5" y1="691.6836" y2="691.6836"/><line style="stroke: #000000; stroke-width: 1.0;" x1="263.5" x2="263.5" y1="691.6836" y2="704.6836"/><line style="stroke: #000000; stroke-width: 1.0;" x1="222.5" x2="263.5" y1="704.6836" y2="704.6836"/><polygon fill="#000000" points="232.5,700.6836,222.5,704.6836,232.5,708.6836,228.5,704.6836" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="105" x="238.5" y="677.0469">기기 제어 요청 처리</text><path d="M157,719.6836 L231,719.6836 L231,747.6836 L221,757.6836 L152,757.6836 L152,724.6836 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="199.4121" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="422.5" x="152" y="719.6836"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="14" x="177" y="744.5293">alt</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="167" x="256" y="745.5293">[기기 제어 처리 여부 == 성공]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="528.5" x2="518.5" y1="822.1309" y2="818.1309"/><line style="stroke: #000000; stroke-width: 1.0;" x1="528.5" x2="518.5" y1="822.1309" y2="826.1309"/><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="529.5" y1="822.1309" y2="822.1309"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="268" x="242" y="807.4941">DeviceControl.ActionExecuted 이벤트 메시지 전송</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="152" x2="574.5" y1="831.1309" y2="831.1309"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="167" x="167" y="854.9766">[기기 제어 처리 여부 == 실패]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="528.5" x2="518.5" y1="911.0957" y2="907.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="528.5" x2="518.5" y1="911.0957" y2="915.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="221.5" x2="529.5" y1="911.0957" y2="911.0957"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="252" x="250" y="896.459">DeviceControl.ActionFailed 이벤트 메시지 전송</text><!--
+@startuml
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR", sans-serif
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CIC as cic #05D686
+
+user ->> client : 클라이언트 제어 요청:\n"GPS 켜줘"
+
+activate client
+  client ->> cic : SpeechRecognizer.Recognize 이벤트 메시지 전송\n(Device.DeviceState 맥락 정보 필수 포함)
+
+deactivate client
+
+activate cic
+  cic -> cic : 클라이언트가 지원하는\n동작인지 분석\n(Device.DeviceState의\nactions[] 필드 분석)
+
+  alt 요청 동작 지원 여부 == 아니오
+
+    cic - ->> client : SpeechSynthesizer.Speak 지시 메시지 전송\n("지원하지 않는 동작입니다.")
+    activate client
+    client - ->> user : 음성 메시지 출력
+
+  else 요청 동작 지원 여부 == 네
+
+    cic - ->> client : 클라이언트 제어 지시 메시지 전송\n(DeviceControl.TurnOn 지시 메시지)
+
+    deactivate cic
+
+    client -> client : 기기 제어 요청 처리
+
+    alt 기기 제어 처리 여부 == 성공
+
+      client ->> cic : DeviceControl.ActionExecuted 이벤트 메시지 전송
+      activate cic
+
+    else 기기 제어 처리 여부 == 실패
+
+      client ->> cic : DeviceControl.ActionFailed 이벤트 메시지 전송
+
+    end
+
+  end
+
+  deactivate client
+
+deactivate cic
+
+@enduml
+
+PlantUML version 1.2018.12(Sun Oct 21 19:15:15 KST 2018)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_191-b12
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: MS949
+Language: ko
+Country: KR
+--></g></svg>

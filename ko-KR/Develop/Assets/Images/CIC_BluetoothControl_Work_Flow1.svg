@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="464px" preserveAspectRatio="none" style="width:671px;height:464px;" version="1.1" viewBox="0 0 671 464" width="671px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="376.3535" style="stroke: #000000; stroke-width: 1.0;" width="10" x="67" y="67.2295"/><rect fill="#FFFFFF" height="196.6768" style="stroke: #000000; stroke-width: 1.0;" width="10" x="297" y="246.9063"/><rect fill="#FFFFFF" height="326.3535" style="stroke: #000000; stroke-width: 1.0;" width="10" x="618" y="117.2295"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="72" x2="72" y1="57.2295" y2="452.583"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="301.5" x2="301.5" y1="57.2295" y2="452.583"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="623" x2="623" y1="57.2295" y2="452.583"/><rect fill="#9EA0CA" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="128" x="8" y="3"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="94" x="25" y="36.1533">블루투스 기기</text><rect fill="#9EA0CA" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="109" x="247.5" y="3"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="75" x="264.5" y="36.1533">클라이언트</text><rect fill="#05D686" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="74" x="586" y="3"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="40" x="603" y="36.1533">CLOVA</text><rect fill="#FFFFFF" height="376.3535" style="stroke: #000000; stroke-width: 1.0;" width="10" x="67" y="67.2295"/><rect fill="#FFFFFF" height="196.6768" style="stroke: #000000; stroke-width: 1.0;" width="10" x="297" y="246.9063"/><rect fill="#FFFFFF" height="326.3535" style="stroke: #000000; stroke-width: 1.0;" width="10" x="618" y="117.2295"/><line style="stroke: #000000; stroke-width: 1.0;" x1="77" x2="124" y1="104.7119" y2="104.7119"/><line style="stroke: #000000; stroke-width: 1.0;" x1="124" x2="124" y1="104.7119" y2="117.7119"/><line style="stroke: #000000; stroke-width: 1.0;" x1="83" x2="124" y1="117.7119" y2="117.7119"/><polygon fill="#000000" points="93,113.7119,83,117.7119,93,121.7119,89,117.7119" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="186" x="99" y="90.0752">페어링 준비(Bluetooth advertising)</text><polygon fill="#9EA0CA" points="34,135.7119,661,135.7119,671,158.7119,661,182.7119,34,182.7119,24,158.7119,34,135.7119" style="stroke: #FFFFFF; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="230" x="232.5" y="165.8652">페어링 가능한 기기 목록 조회 요청</text><line style="stroke: #000000; stroke-width: 1.0;" x1="307" x2="317" y1="246.9063" y2="242.9063"/><line style="stroke: #000000; stroke-width: 1.0;" x1="307" x2="317" y1="246.9063" y2="250.9063"/><line style="stroke: #000000; stroke-width: 1.0;" x1="307" x2="617" y1="246.9063" y2="246.9063"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="155" x="385" y="215.7871">DeviceControl.BtStartPairing</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="90" x="417.5" y="232.2695">지시 메시지 전송</text><line style="stroke: #000000; stroke-width: 1.0;" x1="307" x2="349" y1="297.3887" y2="297.3887"/><line style="stroke: #000000; stroke-width: 1.0;" x1="349" x2="349" y1="297.3887" y2="310.3887"/><line style="stroke: #000000; stroke-width: 1.0;" x1="308" x2="349" y1="310.3887" y2="310.3887"/><polygon fill="#000000" points="318,306.3887,308,310.3887,318,314.3887,314,310.3887" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="165" x="324" y="282.752">기기 탐색(Bluetooth scanning)</text><line style="stroke: #000000; stroke-width: 1.0;" x1="616" x2="606" y1="377.3535" y2="373.3535"/><line style="stroke: #000000; stroke-width: 1.0;" x1="616" x2="606" y1="377.3535" y2="381.3535"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="307" x2="617" y1="377.3535" y2="377.3535"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="264" x="329" y="346.2344">DeviceControl.ActionExecuted (with DeviceState)</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="102" x="411.5" y="362.7168">이벤트 메시지 전송</text><polygon fill="#9EA0CA" points="34,390.3535,661,390.3535,671,413.3535,661,437.3535,34,437.3535,24,413.3535,34,390.3535" style="stroke: #FFFFFF; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="147" x="274" y="420.5068">탐색된 기기 목록 제공</text><!--
+@startuml
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR", sans-serif
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+participant "블루투스 기기" as device #9EA0CA
+participant 클라이언트 as client #9EA0CA
+participant "CLOVA" as clova #05D686
+
+activate device
+device -> device : 페어링 준비(Bluetooth advertising)
+hnote over device, clova : 페어링 가능한 기기 목록 조회 요청
+activate clova
+  clova ->> client : DeviceControl.BtStartPairing\n지시 메시지 전송
+activate client
+  client -> client : 기기 탐색(Bluetooth scanning)
+  client - ->> clova : DeviceControl.ActionExecuted (with DeviceState) \n이벤트 메시지 전송
+hnote over device, clova : 탐색된 기기 목록 제공
+
+@enduml
+
+PlantUML version 1.2018.12(Sun Oct 21 19:15:15 KST 2018)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_191-b12
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: MS949
+Language: ko
+Country: KR
+--></g></svg>

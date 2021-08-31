@@ -1,0 +1,53 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CIC as cic #05D686
+
+
+  client -> client : 알람 시작
+  client ->> cic : 알람 시작 보고\n(Alerts.AlertStarted 이벤트 메시지,\lAlert.AlertsState에 activateAlerts 필드 필수 포함)
+
+  activate cic
+  deactivate cic
+
+  user ->> client : 알람 중지 요청 (발화 또는 물리버튼)
+
+  alt 알람 중지 요청 유형 == 사용자 발화
+
+    client ->> cic : 알람 중지 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+
+  activate cic
+
+  else 알람 중지 요청 유형 == 물리 버튼
+
+    client ->> cic : 알람 중지 요청 전달\n(Alerts.RequestAlertStop 이벤트 메시지)
+
+  end
+
+  cic -->> client : Alerts.StopAlert 지시 메시지 전달
+
+  deactivate cic
+
+  client ->> cic : 알람 중지 결과 보고\n(Alerts.AlertStopped 이벤트 메시지)
+  
+  activate cic
+
+    opt 반복 알람 여부 == 네
+
+      cic -->> client : 다음 반복 알람 전달\n(Alerts.SetAlert 지시 메시지)
+
+    end
+
+    opt 알람 종류 == 액션타이머
+
+      cic -->> client : 사용자가 예약한 동작을 수행하는 지시 메시지 전달
+
+    deactivate cic
+
+      client -> client : 예약된 동작 수행
+
+    end
+
+  deactivate client
+  deactivate cic

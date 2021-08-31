@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1170px" preserveAspectRatio="none" style="width:564px;height:1170px;" version="1.1" viewBox="0 0 564 1170" width="564px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="381.3418" style="stroke: #FFFFFF; stroke-width: 1.0;" width="10" x="189.5" y="154.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="189.5" x2="189.5" y1="154.9648" y2="536.3066"/><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="199.5" y1="154.9648" y2="536.3066"/><line style="stroke: #000000; stroke-width: 1.0;" x1="189.5" x2="199.5" y1="154.9648" y2="154.9648"/><rect fill="#FFFFFF" height="548.3066" style="stroke: #FFFFFF; stroke-width: 1.0;" width="10" x="189.5" y="600.7891"/><line style="stroke: #000000; stroke-width: 1.0;" x1="189.5" x2="189.5" y1="600.7891" y2="1149.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="199.5" y1="600.7891" y2="1149.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="189.5" x2="199.5" y1="1149.0957" y2="1149.0957"/><rect fill="#FFFFFF" height="232.377" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="422.5" x="130" y="233.4473"/><rect fill="#FFFFFF" height="105.4473" style="stroke: none; stroke-width: 1.0;" width="422.5" x="130" y="360.377"/><rect fill="#FFFFFF" height="419.3418" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="538.5" x="14" y="721.7539"/><rect fill="#FFFFFF" height="101.9648" style="stroke: none; stroke-width: 1.0;" width="538.5" x="14" y="1039.1309"/><line style="stroke: #000000; stroke-width: 1.0;" x1="40" x2="40" y1="102.4824" y2="536.3066"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,4.0;" x1="40" x2="40" y1="536.3066" y2="600.7891"/><line style="stroke: #000000; stroke-width: 1.0;" x1="40" x2="40" y1="600.7891" y2="1158.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="194" x2="194" y1="102.4824" y2="536.3066"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,4.0;" x1="194" x2="194" y1="536.3066" y2="600.7891"/><line style="stroke: #000000; stroke-width: 1.0;" x1="194" x2="194" y1="600.7891" y2="1158.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="513.5" x2="513.5" y1="102.4824" y2="536.3066"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 1.0,4.0;" x1="513.5" x2="513.5" y1="536.3066" y2="600.7891"/><line style="stroke: #000000; stroke-width: 1.0;" x1="513.5" x2="513.5" y1="600.7891" y2="1158.0957"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="18" y="89.8457">사용자</text><ellipse cx="40.5" cy="13" fill="#9EA0CA" rx="8" ry="8" style="stroke: #000000; stroke-width: 2.0;"/><path d="M40.5,21 L40.5,48 M27.5,29 L53.5,29 M40.5,48 L27.5,63 M40.5,48 L53.5,63 " fill="none" style="stroke: #000000; stroke-width: 2.0;"/><rect fill="#9EA0CA" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="109" x="140" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="75" x="157" y="81.4063">클라이언트</text><rect fill="#05D686" height="53.2295" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.5;" width="58" x="484.5" y="48.2529"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="24" x="501.5" y="81.4063">CIC</text><rect fill="#FFFFFF" height="381.3418" style="stroke: #FFFFFF; stroke-width: 1.0;" width="10" x="189.5" y="154.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="189.5" x2="189.5" y1="154.9648" y2="536.3066"/><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="199.5" y1="154.9648" y2="536.3066"/><line style="stroke: #000000; stroke-width: 1.0;" x1="189.5" x2="199.5" y1="154.9648" y2="154.9648"/><rect fill="#FFFFFF" height="548.3066" style="stroke: #FFFFFF; stroke-width: 1.0;" width="10" x="189.5" y="600.7891"/><line style="stroke: #000000; stroke-width: 1.0;" x1="189.5" x2="189.5" y1="600.7891" y2="1149.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="199.5" y1="600.7891" y2="1149.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="189.5" x2="199.5" y1="1149.0957" y2="1149.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="187.5" x2="177.5" y1="154.9648" y2="150.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="187.5" x2="177.5" y1="154.9648" y2="158.9648"/><line style="stroke: #000000; stroke-width: 1.0;" x1="40.5" x2="188.5" y1="154.9648" y2="154.9648"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="110" x="60" y="140.3281">"클래식 음악 들려줘"</text><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="241.5" y1="205.4473" y2="205.4473"/><line style="stroke: #000000; stroke-width: 1.0;" x1="241.5" x2="241.5" y1="205.4473" y2="218.4473"/><line style="stroke: #000000; stroke-width: 1.0;" x1="200.5" x2="241.5" y1="218.4473" y2="218.4473"/><polygon fill="#000000" points="210.5,214.4473,200.5,218.4473,210.5,222.4473,206.5,218.4473" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="81" x="216.5" y="190.8105">대화 ID(A) 생성</text><path d="M135,233.4473 L209,233.4473 L209,261.4473 L199,271.4473 L130,271.4473 L130,238.4473 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="232.377" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="422.5" x="130" y="233.4473"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="14" x="155" y="258.293">alt</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="63" x="234" y="259.293">[음성 요청]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="511.5" x2="501.5" y1="352.377" y2="348.377"/><line style="stroke: #000000; stroke-width: 1.0;" x1="511.5" x2="501.5" y1="352.377" y2="356.377"/><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="512.5" y1="352.377" y2="352.377"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="270" x="221.5" y="321.2578">SpeechRecognizer.Recognize 이벤트 메시지 전송</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="154" x="279.5" y="337.7402">(header.dialogRequestId: A)</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="130" x2="552.5" y1="361.377" y2="361.377"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="76" x="145" y="385.2227">[텍스트 요청]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="511.5" x2="501.5" y1="457.8242" y2="453.8242"/><line style="stroke: #000000; stroke-width: 1.0;" x1="511.5" x2="501.5" y1="457.8242" y2="461.8242"/><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="512.5" y1="457.8242" y2="457.8242"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="250" x="231.5" y="426.7051">TextRecognizer.Recognize 이벤트 메시지 전송</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="154" x="279.5" y="443.1875">(header.dialogRequestId: A)</text><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="241.5" y1="515.3066" y2="515.3066"/><line style="stroke: #000000; stroke-width: 1.0;" x1="241.5" x2="241.5" y1="515.3066" y2="528.3066"/><line style="stroke: #000000; stroke-width: 1.0;" x1="200.5" x2="241.5" y1="528.3066" y2="528.3066"/><polygon fill="#000000" points="210.5,524.3066,200.5,528.3066,210.5,532.3066,206.5,528.3066" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="105" x="216.5" y="500.6699">마지막 대화 ID 갱신</text><path d="M25,484.9507 L25,523.9507 A5,5 0 0 0 30,528.9507 L179,528.9507 A5,5 0 0 0 184,523.9507 L184,489.9507 L174,479.9507 L30,479.9507 A5,5 0 0 0 25,484.9507 " fill="#9EA0CA" style="stroke: #FFFFFF; stroke-width: 1.0;"/><path d="M174,479.9507 L174,487.4507 A2.5,2.5 0 0 0 176.5,489.9507 L184,489.9507 L174,479.9507 " fill="#9EA0CA" style="stroke: #FFFFFF; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="118" x="41" y="511.104">lastDialogueID: A</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="66" x="244" y="574.1523">요청 처리 중</text><line style="stroke: #000000; stroke-width: 1.0;" x1="187.5" x2="177.5" y1="643.2715" y2="639.2715"/><line style="stroke: #000000; stroke-width: 1.0;" x1="187.5" x2="177.5" y1="643.2715" y2="647.2715"/><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="40.5" x2="188.5" y1="643.2715" y2="643.2715"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="98" x="66" y="628.6348">"현재 날씨 알려줘"</text><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="241.5" y1="693.7539" y2="693.7539"/><line style="stroke: #000000; stroke-width: 1.0;" x1="241.5" x2="241.5" y1="693.7539" y2="706.7539"/><line style="stroke: #000000; stroke-width: 1.0;" x1="200.5" x2="241.5" y1="706.7539" y2="706.7539"/><polygon fill="#000000" points="210.5,702.7539,200.5,706.7539,210.5,710.7539,206.5,706.7539" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="82" x="216.5" y="679.1172">대화 ID(B) 생성</text><path d="M19,721.7539 L93,721.7539 L93,749.7539 L83,759.7539 L14,759.7539 L14,726.7539 " fill="#EEEEEE" style="stroke: #000000; stroke-width: 1.0;"/><rect fill="none" height="419.3418" rx="5" ry="5" style="stroke: #000000; stroke-width: 2.0;" width="538.5" x="14" y="721.7539"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="14" x="39" y="746.5996">alt</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="92" x="118" y="747.5996">[작업 정상 처리]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="511.5" x2="501.5" y1="840.6836" y2="836.6836"/><line style="stroke: #000000; stroke-width: 1.0;" x1="511.5" x2="501.5" y1="840.6836" y2="844.6836"/><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="512.5" y1="840.6836" y2="840.6836"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="270" x="221.5" y="809.5645">SpeechRecognizer.Recognize 이벤트 메시지 전송</text><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="155" x="279" y="826.0469">(header.dialogRequestId: B)</text><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="241.5" y1="891.166" y2="891.166"/><line style="stroke: #000000; stroke-width: 1.0;" x1="241.5" x2="241.5" y1="891.166" y2="904.166"/><line style="stroke: #000000; stroke-width: 1.0;" x1="200.5" x2="241.5" y1="904.166" y2="904.166"/><polygon fill="#000000" points="210.5,900.166,200.5,904.166,210.5,908.166,206.5,904.166" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="105" x="216.5" y="876.5293">마지막 대화 ID 갱신</text><path d="M24,860.8101 L24,899.8101 A5,5 0 0 0 29,904.8101 L179,904.8101 A5,5 0 0 0 184,899.8101 L184,865.8101 L174,855.8101 L29,855.8101 A5,5 0 0 0 24,860.8101 " fill="#9EA0CA" style="stroke: #FFFFFF; stroke-width: 1.0;"/><path d="M174,855.8101 L174,863.3101 A2.5,2.5 0 0 0 176.5,865.8101 L184,865.8101 L174,855.8101 " fill="#9EA0CA" style="stroke: #FFFFFF; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="40" y="886.9634">lastDialogueID: B</text><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="241.5" y1="954.6484" y2="954.6484"/><line style="stroke: #000000; stroke-width: 1.0;" x1="241.5" x2="241.5" y1="954.6484" y2="967.6484"/><line style="stroke: #000000; stroke-width: 1.0;" x1="200.5" x2="241.5" y1="967.6484" y2="967.6484"/><polygon fill="#000000" points="210.5,963.6484,200.5,967.6484,210.5,971.6484,206.5,967.6484" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="213" x="216.5" y="940.0117">이전 대화 ID(A)와 관련된 작업 처리 중지</text><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="241.5" y1="1018.1309" y2="1018.1309"/><line style="stroke: #000000; stroke-width: 1.0;" x1="241.5" x2="241.5" y1="1018.1309" y2="1031.1309"/><line style="stroke: #000000; stroke-width: 1.0;" x1="200.5" x2="241.5" y1="1031.1309" y2="1031.1309"/><polygon fill="#000000" points="210.5,1027.1309,200.5,1031.1309,210.5,1035.1309,206.5,1031.1309" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="237" x="216.5" y="1003.4941">대화 ID(A)와 관련된 지시 메시지 큐에서 폐기</text><line style="stroke: #000000; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="14" x2="552.5" y1="1040.1309" y2="1040.1309"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="289" x="29" y="1063.9766">[예외 상황 발생으로 인한 이벤트 메시지 전송 취소]</text><line style="stroke: #000000; stroke-width: 1.0;" x1="199.5" x2="241.5" y1="1120.0957" y2="1120.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="241.5" x2="241.5" y1="1120.0957" y2="1133.0957"/><line style="stroke: #000000; stroke-width: 1.0;" x1="200.5" x2="241.5" y1="1133.0957" y2="1133.0957"/><polygon fill="#000000" points="210.5,1129.0957,200.5,1133.0957,210.5,1137.0957,206.5,1133.0957" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="194" x="216.5" y="1105.459">대화 ID(A)에 관련된 작업 처리 (계속)</text><path d="M25,1089.7397 L25,1128.7397 A5,5 0 0 0 30,1133.7397 L179,1133.7397 A5,5 0 0 0 184,1128.7397 L184,1094.7397 L174,1084.7397 L30,1084.7397 A5,5 0 0 0 25,1089.7397 " fill="#9EA0CA" style="stroke: #FFFFFF; stroke-width: 1.0;"/><path d="M174,1084.7397 L174,1092.2397 A2.5,2.5 0 0 0 176.5,1094.7397 L184,1094.7397 L174,1084.7397 " fill="#9EA0CA" style="stroke: #FFFFFF; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="&quot;Noto Sans CJK KR&quot;, sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="118" x="41" y="1115.8931">lastDialogueID: A</text><!--
+@startuml
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR", sans-serif
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CIC as cic #05D686
+
+user ->> client: "클래식 음악 들려줘"
+
+activate client
+
+  client -> client: 대화 ID(A) 생성
+
+  alt 음성 요청
+
+    client ->> cic: SpeechRecognizer.Recognize 이벤트 메시지 전송\n(header.dialogRequestId: A)
+
+  else 텍스트 요청
+
+    client ->> cic: TextRecognizer.Recognize 이벤트 메시지 전송\n(header.dialogRequestId: A)
+
+  end
+
+  client -> client: 마지막 대화 ID 갱신
+
+  note left: lastDialogueID: A
+
+  ... 요청 처리 중 ...
+
+user - ->> client: "현재 날씨 알려줘"
+
+  client -> client: 대화 ID(B) 생성
+
+  alt 작업 정상 처리
+
+    client ->> cic: SpeechRecognizer.Recognize 이벤트 메시지 전송\n(header.dialogRequestId: B)
+
+    client -> client: 마지막 대화 ID 갱신
+
+    note left: lastDialogueID: B
+
+    client -> client: 이전 대화 ID(A)와 관련된 작업 처리 중지
+
+    client -> client: 대화 ID(A)와 관련된 지시 메시지 큐에서 폐기
+
+  else 예외 상황 발생으로 인한 이벤트 메시지 전송 취소
+
+    client -> client: 대화 ID(A)에 관련된 작업 처리 (계속)
+
+    note left: lastDialogueID: A
+
+  end
+
+@enduml
+
+PlantUML version 1.2018.12(Sun Oct 21 19:15:15 KST 2018)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_191-b12
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: MS949
+Language: ko
+Country: KR
+--></g></svg>
