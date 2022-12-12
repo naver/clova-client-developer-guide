@@ -1,0 +1,36 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+
+user ->> client : 음악 재생 요청:\n"신나는 음악 들려줘."
+
+activate client
+  client ->> clova : 사용자 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+deactivate client
+
+activate clova
+  clova -> clova : 사용자 발화 분석
+  clova -->> client : 음원 재생 지시(AudioPlayer.Play 지시 메시지)
+deactivate clova
+
+activate client
+  client -> client : AudioPlayer.Play 지시 메시지의 audioItem.stream 필드 분석
+
+opt audioItem.stream.urlPlayable == false
+
+... 음원 재생 시작 직전까지 시간이 흐른 후 ...
+
+  client ->> clova : audioItem.stream 필드 정보로 실제 음원 정보 요청\n(AudioPlayer.StreamRequested 이벤트 메시지)
+  deactivate client
+  activate clova
+
+    clova -->> client : 재생 가능한 음원 정보 전달\n(AudioPlayer.StreamDeliver 지시 메시지)
+  deactivate clova
+  activate client
+    client -> client : AudioPlayer.StreamDeliver 지시 메시지의 audioStream 필드 분석
+end
+
+client -> client : 음원 재생 시작

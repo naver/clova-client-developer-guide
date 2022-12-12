@@ -1,0 +1,33 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CIC as cic #05D686
+participant CLOVA as clova #05D686
+
+user ->> client: "클래식 음악 들려줘"
+
+activate client
+  client ->> cic: 사용자 요청에 대한 이벤트 메시지 전송\n("클래식 음악 들려줘")
+deactivate client
+
+activate  cic
+  cic ->> clova: 사용자 음성 인식 요청
+deactivate cic
+
+activate clova
+  clova -> clova: 음성 인식
+
+  clova -> clova: 의미 분석
+
+  clova -->> cic: 의미 분석에 따른 결과 전달
+deactivate clova
+
+activate cic
+  cic -->> client: 요청한 결과를 지시 메시지로 전송\n(안내 음성, 음원 정보, 재생 지시 등)
+deactivate cic
+
+activate client
+  client -> client: 지시 메시지 처리
+  client -->> user: 처리 결과 제공
+deactivate client

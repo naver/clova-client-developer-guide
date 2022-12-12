@@ -1,0 +1,97 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+user ->> client : 알람 등록 요청:\n"오늘 오후 9 시에 알람 등록해줘."
+
+activate client
+  client ->> clova : 사용자 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+deactivate client
+
+activate clova
+  clova -> clova : 사용자 발화 분석
+  clova -->> client : Alerts.SetAlert 지시 메시지 전달
+deactivate clova
+
+activate client
+  client -> client : 클라이언트 기기에 알람 등록
+
+alt 알람 등록 결과 == 등록 실패
+
+  client ->> clova : Alerts.SetAlertFailed 이벤트 메시지 전송
+  deactivate client
+  activate clova
+
+    clova -->> client : SpeechSynthesizer.Speak 지시 메시지 전달\n("알람을 등록하지 못했어요.")
+  deactivate clova
+  activate client
+    client -->> user : 알람 등록 결과 전달
+
+else 알람 등록 결과 == 등록 성공
+
+  client ->> clova : Alerts.SetAlertSucceeded 이벤트 메시지 전송
+
+deactivate client
+
+activate clova
+  clova -> clova : 사용자 알람 등록
+  clova -->> client : SpeechSynthesizer.Speak 지시 메시지 전달\n("알람이 등록되었습니다.")
+activate client
+  clova -->> client :  Actiontimer, Alarm, Reminder, Timer 템플릿 전달\n(Clova.RenderTemplate 지시 메시지)
+deactivate clova
+
+  client -> client : 음성 출력 및 등록된 알람 내용 표시
+  client -->> user : 알람 등록 결과 전달
+
+
+...
+
+  client -> client : 알람 시작
+  client ->> clova : 알람 시작 보고\n(Alerts.AlertStarted 이벤트 메시지,\lAlert.AlertsState에 activateAlerts 필드 필수 포함)
+
+  activate clova
+  deactivate clova
+
+  user ->> client : 알람 중지 요청 (발화 또는 물리버튼)
+
+  alt 알람 중지 요청 유형 == 사용자 발화
+
+    client ->> clova : 알람 중지 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+
+  activate clova
+
+  else 알람 중지 요청 유형 == 물리 버튼
+
+    client ->> clova : 알람 중지 요청 전달\n(Alerts.RequestAlertStop 이벤트 메시지)
+
+  end
+
+  clova -->> client : Alerts.StopAlert 지시 메시지 전달
+
+  deactivate clova
+
+  client ->> clova : 알람 중지 결과 보고\n(Alerts.AlertStopped 이벤트 메시지)
+  activate clova
+
+    opt 반복 알람 여부 == 네
+
+      clova -->> client : 다음 반복 알람 전달\n(Alerts.SetAlert 지시 메시지)
+
+    end
+
+    opt 알람 종류 == 액션타이머
+
+      clova -->> client : 사용자가 예약한 동작을 수행하는 지시 메시지 전달
+
+    deactivate clova
+
+      client -> client : 예약된 동작 수행
+
+    end
+
+  deactivate client
+  deactivate clova
+
+  end

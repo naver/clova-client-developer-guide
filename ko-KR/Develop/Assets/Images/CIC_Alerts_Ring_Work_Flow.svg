@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1082px" preserveAspectRatio="none" style="width:622px;height:1082px;background:#FFFFFF;" version="1.1" viewBox="0 0 622 1082" width="622px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="30" style="stroke:#000000;stroke-width:1.0;" width="10" x="560.5" y="259.8"/><rect fill="#FFFFFF" height="168.04" style="stroke:#000000;stroke-width:1.0;" width="10" x="560.5" y="480.6"/><rect fill="#FFFFFF" height="267.32" style="stroke:#000000;stroke-width:1.0;" width="10" x="560.5" y="718.16"/><rect fill="#FFFFFF" height="241.32" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="419.5" x="196" y="356.56"/><rect fill="#FFFFFF" height="109.28" style="stroke:none;stroke-width:1.0;" width="419.5" x="196" y="488.6"/><rect fill="#FFFFFF" height="132.04" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="419.5" x="196" y="733.16"/><rect fill="#FFFFFF" height="179.04" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="419.5" x="196" y="879.2"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="34" x2="34" y1="105.76" y2="1075.24"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="255" x2="255" y1="105.76" y2="1075.24"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="565.5" x2="565.5" y1="105.76" y2="1075.24"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="33" x="15" y="91.92">사용자</text><ellipse cx="34.5" cy="15" fill="#FEFECE" rx="8" ry="8" style="stroke:#000000;stroke-width:2.0;"/><path d="M34.5,23 L34.5,50 M21.5,31 L47.5,31 M34.5,50 L21.5,65 M34.5,50 L47.5,65 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><rect fill="#9EA0CA" height="54.72" rx="5" ry="5" style="stroke:#FFFFFF;stroke-width:1.5;" width="99" x="206" y="50.04"/><text fill="#FFFFFF" font-family="Noto Sans CJK KR" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="65" x="223" y="83.28">클라이언트</text><rect fill="#05D686" height="54.72" rx="5" ry="5" style="stroke:#FFFFFF;stroke-width:1.5;" width="80" x="525.5" y="50.04"/><text fill="#FFFFFF" font-family="Noto Sans CJK KR" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="46" x="542.5" y="83.28">CLOVA</text><rect fill="#FFFFFF" height="30" style="stroke:#000000;stroke-width:1.0;" width="10" x="560.5" y="259.8"/><rect fill="#FFFFFF" height="168.04" style="stroke:#000000;stroke-width:1.0;" width="10" x="560.5" y="480.6"/><rect fill="#FFFFFF" height="267.32" style="stroke:#000000;stroke-width:1.0;" width="10" x="560.5" y="718.16"/><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="297.5" y1="159.52" y2="159.52"/><line style="stroke:#000000;stroke-width:1.0;" x1="297.5" x2="297.5" y1="159.52" y2="172.52"/><line style="stroke:#000000;stroke-width:1.0;" x1="256.5" x2="297.5" y1="172.52" y2="172.52"/><polygon fill="#000000" points="266.5,168.52,256.5,172.52,266.5,176.52,262.5,172.52" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="47" x="272.5" y="143.68">알람 시작</text><line style="stroke:#000000;stroke-width:1.0;" x1="558.5" x2="548.5" y1="259.8" y2="255.8"/><line style="stroke:#000000;stroke-width:1.0;" x1="558.5" x2="548.5" y1="259.8" y2="263.8"/><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="559.5" y1="259.8" y2="259.8"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="72" x="275" y="208.44">알람 시작 보고</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="185" x="275" y="226.2">(Alerts.AlertStarted 이벤트 메시지,</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="266" x="275" y="243.96">Alert.AlertsState에 activateAlerts 필드 필수 포함)</text><line style="stroke:#000000;stroke-width:1.0;" x1="253.5" x2="243.5" y1="341.56" y2="337.56"/><line style="stroke:#000000;stroke-width:1.0;" x1="253.5" x2="243.5" y1="341.56" y2="345.56"/><line style="stroke:#000000;stroke-width:1.0;" x1="34.5" x2="254.5" y1="341.56" y2="341.56"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="177" x="56.5" y="325.72">알람 중지 요청 (발화 또는 물리버튼)</text><path d="M201,356.56 L277,356.56 L277,385.56 L267,395.56 L196,395.56 L196,361.56 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="241.32" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="419.5" x="196" y="356.56"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="16" x="221" y="381.48">alt</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="185" x="302" y="382.48">[알람 중지 요청 유형 == 사용자 발화]</text><line style="stroke:#000000;stroke-width:1.0;" x1="558.5" x2="548.5" y1="480.6" y2="476.6"/><line style="stroke:#000000;stroke-width:1.0;" x1="558.5" x2="548.5" y1="480.6" y2="484.6"/><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="559.5" y1="480.6" y2="480.6"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="97" x="359.5" y="447">알람 중지 요청 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="245" x="285.5" y="464.76">(SpeechRecognizer.Recognize 이벤트 메시지)</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="196" x2="615.5" y1="489.6" y2="489.6"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="174" x="211" y="513.52">[알람 중지 요청 유형 == 물리 버튼]</text><line style="stroke:#000000;stroke-width:1.0;" x1="558.5" x2="548.5" y1="589.88" y2="585.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="558.5" x2="548.5" y1="589.88" y2="593.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="559.5" y1="589.88" y2="589.88"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="97" x="359.5" y="556.28">알람 중지 요청 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="216" x="300" y="574.04">(Alerts.RequestAlertStop 이벤트 메시지)</text><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="265.5" y1="648.64" y2="644.64"/><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="265.5" y1="648.64" y2="652.64"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="255.5" x2="564.5" y1="648.64" y2="648.64"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="175" x="323" y="632.8">Alerts.StopAlert 지시 메시지 전달</text><line style="stroke:#000000;stroke-width:1.0;" x1="558.5" x2="548.5" y1="718.16" y2="714.16"/><line style="stroke:#000000;stroke-width:1.0;" x1="558.5" x2="548.5" y1="718.16" y2="722.16"/><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="559.5" y1="718.16" y2="718.16"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="97" x="359.5" y="684.56">알람 중지 결과 보고</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="190" x="313" y="702.32">(Alerts.AlertStopped 이벤트 메시지)</text><path d="M201,733.16 L282,733.16 L282,762.16 L272,772.16 L196,772.16 L196,738.16 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="132.04" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="419.5" x="196" y="733.16"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="21" x="221" y="758.08">opt</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="113" x="307" y="759.08">[반복 알람 여부 == 네]</text><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="265.5" y1="857.2" y2="853.2"/><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="265.5" y1="857.2" y2="861.2"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="255.5" x2="559.5" y1="857.2" y2="857.2"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="97" x="359.5" y="823.6">다음 반복 알람 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="151" x="332.5" y="841.36">(Alerts.SetAlert 지시 메시지)</text><path d="M201,879.2 L282,879.2 L282,908.2 L272,918.2 L196,918.2 L196,884.2 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="179.04" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="419.5" x="196" y="879.2"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="21" x="221" y="904.12">opt</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="132" x="307" y="905.12">[알람 종류 == 액션타이머]</text><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="265.5" y1="985.48" y2="981.48"/><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="265.5" y1="985.48" y2="989.48"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="255.5" x2="564.5" y1="985.48" y2="985.48"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="249" x="286" y="969.64">사용자가 예약한 동작을 수행하는 지시 메시지 전달</text><line style="stroke:#000000;stroke-width:1.0;" x1="255.5" x2="297.5" y1="1037.24" y2="1037.24"/><line style="stroke:#000000;stroke-width:1.0;" x1="297.5" x2="297.5" y1="1037.24" y2="1050.24"/><line style="stroke:#000000;stroke-width:1.0;" x1="256.5" x2="297.5" y1="1050.24" y2="1050.24"/><polygon fill="#000000" points="266.5,1046.24,256.5,1050.24,266.5,1054.24,262.5,1050.24" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="83" x="272.5" y="1021.4">예약된 동작 수행</text><!--MD5=[85e484da59be7c50ec7b1fbf628872fd]
+@startuml
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+
+  client -> client : 알람 시작
+  client ->> clova : 알람 시작 보고\n(Alerts.AlertStarted 이벤트 메시지,\lAlert.AlertsState에 activateAlerts 필드 필수 포함)
+
+  activate clova
+  deactivate clova
+
+  user ->> client : 알람 중지 요청 (발화 또는 물리버튼)
+
+  alt 알람 중지 요청 유형 == 사용자 발화
+
+    client ->> clova : 알람 중지 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+
+  activate clova
+
+  else 알람 중지 요청 유형 == 물리 버튼
+
+    client ->> clova : 알람 중지 요청 전달\n(Alerts.RequestAlertStop 이벤트 메시지)
+
+  end
+
+  clova - ->> client : Alerts.StopAlert 지시 메시지 전달
+
+  deactivate clova
+
+  client ->> clova : 알람 중지 결과 보고\n(Alerts.AlertStopped 이벤트 메시지)
+  
+  activate clova
+
+    opt 반복 알람 여부 == 네
+
+      clova - ->> client : 다음 반복 알람 전달\n(Alerts.SetAlert 지시 메시지)
+
+    end
+
+    opt 알람 종류 == 액션타이머
+
+      clova - ->> client : 사용자가 예약한 동작을 수행하는 지시 메시지 전달
+
+    deactivate clova
+
+      client -> client : 예약된 동작 수행
+
+    end
+
+  deactivate client
+  deactivate clova
+@enduml
+
+@startuml
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR"
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+
+  client -> client : 알람 시작
+  client ->> clova : 알람 시작 보고\n(Alerts.AlertStarted 이벤트 메시지,\lAlert.AlertsState에 activateAlerts 필드 필수 포함)
+
+  activate clova
+  deactivate clova
+
+  user ->> client : 알람 중지 요청 (발화 또는 물리버튼)
+
+  alt 알람 중지 요청 유형 == 사용자 발화
+
+    client ->> clova : 알람 중지 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+
+  activate clova
+
+  else 알람 중지 요청 유형 == 물리 버튼
+
+    client ->> clova : 알람 중지 요청 전달\n(Alerts.RequestAlertStop 이벤트 메시지)
+
+  end
+
+  clova - ->> client : Alerts.StopAlert 지시 메시지 전달
+
+  deactivate clova
+
+  client ->> clova : 알람 중지 결과 보고\n(Alerts.AlertStopped 이벤트 메시지)
+  
+  activate clova
+
+    opt 반복 알람 여부 == 네
+
+      clova - ->> client : 다음 반복 알람 전달\n(Alerts.SetAlert 지시 메시지)
+
+    end
+
+    opt 알람 종류 == 액션타이머
+
+      clova - ->> client : 사용자가 예약한 동작을 수행하는 지시 메시지 전달
+
+    deactivate clova
+
+      client -> client : 예약된 동작 수행
+
+    end
+
+  deactivate client
+  deactivate clova
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 21:40:07 KST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: KR
+--></g></svg>

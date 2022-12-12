@@ -1,0 +1,58 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+activate client
+
+  client -> client : 음원 재생 시작
+  client ->> clova : 음원 재생 시작 보고(AudioPlayer.PlayStarted 이벤트 메시지)
+
+  activate clova
+  deactivate clova
+
+  opt progressReport.progressReportDelayInMilliseconds != null
+
+    ... 음원 재생 시작 후 지정된 시간이 지난 후 ...
+
+    client ->> clova : 음원 재생 진도 보고(AudioPlayer.ProgressReportDelayPassed 이벤트 메시지)
+
+    activate clova
+    deactivate clova
+
+  end
+
+  opt progressReport.progressReportIntervalInMilliseconds != null
+
+    loop 음원 재생이 중지될 때까지
+
+      ... 지정된 간격의 시간이 지난 후 ...
+
+      client ->> clova : 음원 재생 진도 보고(AudioPlayer.ProgressReportIntervalPassed 이벤트 메시지)
+
+      activate clova
+      deactivate clova
+
+    end
+
+  end
+
+  opt progressReport.progressReportPositionInMilliseconds != null
+
+    ... 음원의 특정 재생 시점을 지난 후 ...
+
+    client ->> clova : 음원 재생 진도 보고(AudioPlayer.ProgressReportPositionPassed 이벤트 메시지)
+
+    activate clova
+    deactivate clova
+
+  end
+
+  ... 음원 재생 완료 후 ...
+
+  client ->> clova : 음원 재생 완료 보고(AudioPlayer.PlayFinished 이벤트 메시지)
+
+deactivate client
+activate clova
+deactivate clova

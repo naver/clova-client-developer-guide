@@ -1,0 +1,25 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+start
+
+:수신한 지시 메시지의 대화 ID 확인;
+
+if ( 대화 ID가 존재하는지? ) then (예)
+
+  :마지막 대화 ID 확인;
+
+  if ( 지시 메시지의 대화 ID == 마지막 대화 ID ) then (예)
+
+  :메시지 큐에 수신한 지시 메시지 추가;
+  stop
+
+  else (아니오)
+
+  :수신한 지시 메시지 폐기;
+  stop
+  endif
+
+else (아니오)
+  :수신한 지시 메시지 내용 즉시 처리;
+  stop
+endif

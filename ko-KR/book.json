@@ -1,0 +1,47 @@
+{
+  "title": "CLOVA client developer guide",
+  "description": "이 문서는 CLOVA 클라이언트에 대한 디자인 가이드라인, CIC 플랫폼에 대한 설명, 개발 가이드와 API 레퍼런스를 제공합니다.",
+  "direction": "ltr",
+  "author": "NAVER Corporation",
+  "variables": {
+    "DocMeta": {
+      "ClassifiedInfo": "Confidential",
+      "CLOVACustomExtensionDeveloperGuideBaseURI": "https://developers.naver.com/console/clova/custom_ext",
+      "CLOVAHomeExtensionDeveloperGuideBaseURI": "https://developers.naver.com/console/clova/home_ext",
+      "DocOwner": "NAVER",
+      "DocVersion": "2021-09-24",
+      "OutputFormat": "Web",
+      "ReleaseYear": "2019",
+      "TargetReaderType": "Public",
+      "FileExtensionForExternalLink": "md"
+    },
+    "ServiceEnv": {
+      "AuthAPIBaseURI": "https://auth.clova.ai/",
+      "CICBaseURI": "https://prod-ni-cic.clova.ai/",
+      "DeveloperCenterForumURI": "https://developers.naver.com/forum/list",
+      "DeveloperCenterName": "NAVER 개발자 센터",
+      "DeveloperConsoleURI": "https://developers.naver.com/console/clova",
+      "LoginAPIofTargetService": "https://developers.naver.com/docs/login/overview/",
+      "OrientedService": "NAVER",
+      "ProposalRegisterURI": "https://www.navercorp.com/ko/company/proposalRegister.nhn",
+      "TargetServiceForClientAuth": "NAVER"
+    },
+    "L10N": {
+      "Language": "ko",
+      "TargetCountryCode": "KR"
+    },
+    "DevConsole": {
+    }
+  },
+  "pdf": {
+    "fontSize": 11,
+    "margin": {
+      "top": 40,
+      "bottom": 40,
+      "left": 30,
+      "right": 30
+    },
+    "paperSize": "a3"
+  },
+  "plugins": ["-search", "-lunr"]
+}

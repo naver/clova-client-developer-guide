@@ -1,0 +1,66 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+participant "CLOVA 앱 또는 연동앱" as ca #9EA0CA
+participant "클라이언트 기기 1" as cli1 #9EA0CA
+participant "클라이언트 기기 2" as cli2 #9EA0CA
+participant CIC as cic #05D686
+
+group Get client device list
+  activate ca
+    ca ->> cic : DeviceControl.RequestDeviceList 이벤트 메시지를 전송\n(전체 클라이언트 기기의 목록과 식별자 요청)
+  deactivate ca
+
+  activate cic
+
+    cic -> cic : 사용자 계정에 등록된\n기기 조회
+
+    cic ->> ca : DeviceControl.RenderDeviceList 지시 메시지 전달\n(사용자 계정에 등록된 기기 목록과 식별자 정보 전달)
+
+  deactivate cic
+
+activate ca
+
+end
+  ca -> ca : 기기 목록 표시
+
+  ca ->> cic : DeviceControl.RequestStateSynchronization 이벤트 메시지를 전송\n(클라이언트 기기 상태 업데이트 요청)
+deactivate ca
+
+group Request state report
+
+  activate cic
+
+    cic ->> cli1 : DeviceControl.ExpectReportState 지시 메시지 전달\n(Downchannel 이용)
+    activate cli1
+
+    cic ->> cli2 : DeviceControl.ExpectReportState 지시 메시지 전달\n(Downchannel 이용)
+
+  deactivate cic
+    activate cli2
+
+end
+
+...클라이언트 상태 수집 후...
+
+group Report state
+
+    cli2 ->> cic : DeviceControl.ReportState 이벤트 메시지 전송\n(기기 상태 보고)
+    deactivate cli2
+  activate cic
+
+    cli1 ->> cic : DeviceControl.ReportState 이벤트 메시지 전송\n(기기 상태 보고)
+    deactivate cli1
+
+end
+
+    cic -> cic : 수집된 상태 정리
+
+group Synchronize state
+
+    cic ->> ca : DeviceControl.SynchronizeState 지시 메시지 전달\n(Downchannel 이용)
+  deactivate cic
+    activate ca
+
+    ca -> ca : 클라이언트 기기별\n상태 정보 업데이트
+
+end

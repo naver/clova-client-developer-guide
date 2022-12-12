@@ -1,0 +1,67 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant "CLOVA 앱" as app #9EA0CA
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+alt 발화를 통한 음원 재생 제어
+
+  user ->> client : 음악 재생 제어 요청:\n"음악 일지 정지해줘."
+
+  activate client
+    
+    client ->> clova : 사용자 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+  
+  deactivate client
+
+  activate clova
+
+    clova -> clova : 사용자 발화 분석  
+
+else 클라이언트 기기의 버튼을 이용한 음원 재생 제어
+
+  user ->> client : 일시 정지 버튼 누름
+
+  activate client
+    
+    client ->> clova : 일시 정지 명령 발생 보고\n(PlaybackController.PauseCommandIssued 이벤트 메시지)
+  
+  deactivate client
+
+else CLOVA 앱을 통해 원격으로 음원 재생 제어
+
+  user ->> app : 클라이언트의 음원 재생 일시 정지 요청
+
+  activate app
+
+    app ->> clova : 클라이언트의 음원 재생 일시 정지 요청 전달
+    
+  deactivate app
+
+    clova ->> client : 사용자가 일시 정지 버튼을 누른 것처럼 동작하도록 요청\n(PlaybackController.ExpectPauseCommand 지시 메시지)
+
+  activate client
+
+    client ->> clova : 일시 정지 명령 발생 보고\n(PlaybackController.PauseCommandIssued 이벤트 메시지)
+
+  deactivate client
+
+end
+
+
+activate clova
+
+  clova -->> client : 음원 재생 중지 지시\n(PlaybackController.Pause 지시 메시지)
+
+deactivate clova
+
+activate client
+
+  client -> client : 음원 재생 일시 정지
+  client ->> clova : 음원 재생 일시 정지 보고\n(AudioPlayer.PlayResumed 이벤트 메시지)
+
+deactivate client
+
+activate clova
+

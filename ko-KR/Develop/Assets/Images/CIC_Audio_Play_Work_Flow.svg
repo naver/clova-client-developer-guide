@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="863px" preserveAspectRatio="none" style="width:692px;height:863px;background:#FFFFFF;" version="1.1" viewBox="0 0 692 863" width="692px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="69.52" style="stroke:#000000;stroke-width:1.0;" width="10" x="182.5" y="177.28"/><rect fill="#FFFFFF" height="142.28" style="stroke:#FFFFFF;stroke-width:1.0;" width="10" x="182.5" y="363.32"/><line style="stroke:#000000;stroke-width:1.0;" x1="182.5" x2="182.5" y1="363.32" y2="505.6"/><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="192.5" y1="363.32" y2="505.6"/><line style="stroke:#000000;stroke-width:1.0;" x1="182.5" x2="192.5" y1="363.32" y2="363.32"/><rect fill="#FFFFFF" height="61.52" style="stroke:#FFFFFF;stroke-width:1.0;" width="10" x="182.5" y="571.36"/><line style="stroke:#000000;stroke-width:1.0;" x1="182.5" x2="182.5" y1="571.36" y2="632.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="192.5" y1="571.36" y2="632.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="182.5" x2="192.5" y1="632.88" y2="632.88"/><rect fill="#FFFFFF" height="145.52" style="stroke:#000000;stroke-width:1.0;" width="10" x="182.5" y="702.4"/><rect fill="#FFFFFF" height="116.52" style="stroke:#000000;stroke-width:1.0;" width="10" x="575.5" y="246.8"/><rect fill="#FFFFFF" height="69.52" style="stroke:#000000;stroke-width:1.0;" width="10" x="575.5" y="632.88"/><rect fill="#FFFFFF" height="332.08" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="502.5" x="128" y="443.08"/><line style="stroke:#000000;stroke-width:1.0;" x1="34" x2="34" y1="105.76" y2="505.6"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="34" x2="34" y1="505.6" y2="571.36"/><line style="stroke:#000000;stroke-width:1.0;" x1="34" x2="34" y1="571.36" y2="856.92"/><line style="stroke:#000000;stroke-width:1.0;" x1="187" x2="187" y1="105.76" y2="505.6"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="187" x2="187" y1="505.6" y2="571.36"/><line style="stroke:#000000;stroke-width:1.0;" x1="187" x2="187" y1="571.36" y2="856.92"/><line style="stroke:#000000;stroke-width:1.0;" x1="580.5" x2="580.5" y1="105.76" y2="505.6"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="580.5" x2="580.5" y1="505.6" y2="571.36"/><line style="stroke:#000000;stroke-width:1.0;" x1="580.5" x2="580.5" y1="571.36" y2="856.92"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="33" x="15" y="91.92">사용자</text><ellipse cx="34.5" cy="15" fill="#FEFECE" rx="8" ry="8" style="stroke:#000000;stroke-width:2.0;"/><path d="M34.5,23 L34.5,50 M21.5,31 L47.5,31 M34.5,50 L21.5,65 M34.5,50 L47.5,65 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><rect fill="#9EA0CA" height="54.72" rx="5" ry="5" style="stroke:#FFFFFF;stroke-width:1.5;" width="99" x="138" y="50.04"/><text fill="#FFFFFF" font-family="Noto Sans CJK KR" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="65" x="155" y="83.28">클라이언트</text><rect fill="#05D686" height="54.72" rx="5" ry="5" style="stroke:#FFFFFF;stroke-width:1.5;" width="80" x="540.5" y="50.04"/><text fill="#FFFFFF" font-family="Noto Sans CJK KR" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="46" x="557.5" y="83.28">CLOVA</text><rect fill="#FFFFFF" height="69.52" style="stroke:#000000;stroke-width:1.0;" width="10" x="182.5" y="177.28"/><rect fill="#FFFFFF" height="142.28" style="stroke:#FFFFFF;stroke-width:1.0;" width="10" x="182.5" y="363.32"/><line style="stroke:#000000;stroke-width:1.0;" x1="182.5" x2="182.5" y1="363.32" y2="505.6"/><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="192.5" y1="363.32" y2="505.6"/><line style="stroke:#000000;stroke-width:1.0;" x1="182.5" x2="192.5" y1="363.32" y2="363.32"/><rect fill="#FFFFFF" height="61.52" style="stroke:#FFFFFF;stroke-width:1.0;" width="10" x="182.5" y="571.36"/><line style="stroke:#000000;stroke-width:1.0;" x1="182.5" x2="182.5" y1="571.36" y2="632.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="192.5" y1="571.36" y2="632.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="182.5" x2="192.5" y1="632.88" y2="632.88"/><rect fill="#FFFFFF" height="145.52" style="stroke:#000000;stroke-width:1.0;" width="10" x="182.5" y="702.4"/><rect fill="#FFFFFF" height="116.52" style="stroke:#000000;stroke-width:1.0;" width="10" x="575.5" y="246.8"/><rect fill="#FFFFFF" height="69.52" style="stroke:#000000;stroke-width:1.0;" width="10" x="575.5" y="632.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="180.5" x2="170.5" y1="177.28" y2="173.28"/><line style="stroke:#000000;stroke-width:1.0;" x1="180.5" x2="170.5" y1="177.28" y2="181.28"/><line style="stroke:#000000;stroke-width:1.0;" x1="34.5" x2="181.5" y1="177.28" y2="177.28"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="75" x="71" y="143.68">음악 재생 요청:</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="109" x="54" y="161.44">"신나는 음악 들려줘."</text><line style="stroke:#000000;stroke-width:1.0;" x1="573.5" x2="563.5" y1="246.8" y2="242.8"/><line style="stroke:#000000;stroke-width:1.0;" x1="573.5" x2="563.5" y1="246.8" y2="250.8"/><line style="stroke:#000000;stroke-width:1.0;" x1="187.5" x2="574.5" y1="246.8" y2="246.8"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="83" x="340" y="213.2">사용자 요청 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="245" x="259" y="230.96">(SpeechRecognizer.Recognize 이벤트 메시지)</text><line style="stroke:#000000;stroke-width:1.0;" x1="585.5" x2="627.5" y1="298.56" y2="298.56"/><line style="stroke:#000000;stroke-width:1.0;" x1="627.5" x2="627.5" y1="298.56" y2="311.56"/><line style="stroke:#000000;stroke-width:1.0;" x1="586.5" x2="627.5" y1="311.56" y2="311.56"/><polygon fill="#000000" points="596.5,307.56,586.5,311.56,596.5,315.56,592.5,311.56" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="83" x="602.5" y="282.72">사용자 발화 분석</text><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="202.5" y1="363.32" y2="359.32"/><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="202.5" y1="363.32" y2="367.32"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="192.5" x2="579.5" y1="363.32" y2="363.32"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="235" x="269" y="347.48">음원 재생 지시(AudioPlayer.Play 지시 메시지)</text><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="234.5" y1="415.08" y2="415.08"/><line style="stroke:#000000;stroke-width:1.0;" x1="234.5" x2="234.5" y1="415.08" y2="428.08"/><line style="stroke:#000000;stroke-width:1.0;" x1="193.5" x2="234.5" y1="428.08" y2="428.08"/><polygon fill="#000000" points="203.5,424.08,193.5,428.08,203.5,432.08,199.5,428.08" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="321" x="209.5" y="399.24">AudioPlayer.Play 지시 메시지의 audioItem.stream 필드 분석</text><path d="M133,443.08 L214,443.08 L214,472.08 L204,482.08 L128,482.08 L128,448.08 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="332.08" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="502.5" x="128" y="443.08"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="21" x="153" y="468">opt</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="240" x="239" y="469">[audioItem.stream.urlPlayable == false]</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="194" x="210.5" y="543.52">음원 재생 시작 직전까지 시간이 흐른 후</text><line style="stroke:#000000;stroke-width:1.0;" x1="573.5" x2="563.5" y1="632.88" y2="628.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="573.5" x2="563.5" y1="632.88" y2="636.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="187.5" x2="574.5" y1="632.88" y2="632.88"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="263" x="250" y="599.28">audioItem.stream 필드 정보로 실제 음원 정보 요청</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="253" x="255" y="617.04">(AudioPlayer.StreamRequested 이벤트 메시지)</text><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="202.5" y1="702.4" y2="698.4"/><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="202.5" y1="702.4" y2="706.4"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="192.5" x2="579.5" y1="702.4" y2="702.4"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="133" x="320" y="668.8">재생 가능한 음원 정보 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="220" x="276.5" y="686.56">(AudioPlayer.StreamDeliver 지시 메시지)</text><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="234.5" y1="754.16" y2="754.16"/><line style="stroke:#000000;stroke-width:1.0;" x1="234.5" x2="234.5" y1="754.16" y2="767.16"/><line style="stroke:#000000;stroke-width:1.0;" x1="193.5" x2="234.5" y1="767.16" y2="767.16"/><polygon fill="#000000" points="203.5,763.16,193.5,767.16,203.5,771.16,199.5,767.16" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="349" x="209.5" y="738.32">AudioPlayer.StreamDeliver 지시 메시지의 audioStream 필드 분석</text><line style="stroke:#000000;stroke-width:1.0;" x1="192.5" x2="234.5" y1="825.92" y2="825.92"/><line style="stroke:#000000;stroke-width:1.0;" x1="234.5" x2="234.5" y1="825.92" y2="838.92"/><line style="stroke:#000000;stroke-width:1.0;" x1="193.5" x2="234.5" y1="838.92" y2="838.92"/><polygon fill="#000000" points="203.5,834.92,193.5,838.92,203.5,842.92,199.5,838.92" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="72" x="209.5" y="810.08">음원 재생 시작</text><!--MD5=[f4461a49872bcff64bfbfe75d4e4bb0a]
+@startuml
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+
+user ->> client : 음악 재생 요청:\n"신나는 음악 들려줘."
+
+activate client
+  client ->> clova : 사용자 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+deactivate client
+
+activate clova
+  clova -> clova : 사용자 발화 분석
+  clova - ->> client : 음원 재생 지시(AudioPlayer.Play 지시 메시지)
+deactivate clova
+
+activate client
+  client -> client : AudioPlayer.Play 지시 메시지의 audioItem.stream 필드 분석
+
+opt audioItem.stream.urlPlayable == false
+
+... 음원 재생 시작 직전까지 시간이 흐른 후 ...
+
+  client ->> clova : audioItem.stream 필드 정보로 실제 음원 정보 요청\n(AudioPlayer.StreamRequested 이벤트 메시지)
+  deactivate client
+  activate clova
+
+    clova - ->> client : 재생 가능한 음원 정보 전달\n(AudioPlayer.StreamDeliver 지시 메시지)
+  deactivate clova
+  activate client
+    client -> client : AudioPlayer.StreamDeliver 지시 메시지의 audioStream 필드 분석
+end
+
+client -> client : 음원 재생 시작
+@enduml
+
+@startuml
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR"
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+
+user ->> client : 음악 재생 요청:\n"신나는 음악 들려줘."
+
+activate client
+  client ->> clova : 사용자 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+deactivate client
+
+activate clova
+  clova -> clova : 사용자 발화 분석
+  clova - ->> client : 음원 재생 지시(AudioPlayer.Play 지시 메시지)
+deactivate clova
+
+activate client
+  client -> client : AudioPlayer.Play 지시 메시지의 audioItem.stream 필드 분석
+
+opt audioItem.stream.urlPlayable == false
+
+... 음원 재생 시작 직전까지 시간이 흐른 후 ...
+
+  client ->> clova : audioItem.stream 필드 정보로 실제 음원 정보 요청\n(AudioPlayer.StreamRequested 이벤트 메시지)
+  deactivate client
+  activate clova
+
+    clova - ->> client : 재생 가능한 음원 정보 전달\n(AudioPlayer.StreamDeliver 지시 메시지)
+  deactivate clova
+  activate client
+    client -> client : AudioPlayer.StreamDeliver 지시 메시지의 audioStream 필드 분석
+end
+
+client -> client : 음원 재생 시작
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 21:40:07 KST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: KR
+--></g></svg>

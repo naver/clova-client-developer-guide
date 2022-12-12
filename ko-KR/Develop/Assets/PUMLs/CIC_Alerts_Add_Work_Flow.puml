@@ -1,0 +1,50 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+
+user ->> client : 알람 등록 요청:\n"오늘 오후 9 시에 알람 등록해줘."
+
+activate client
+  client ->> clova : 사용자 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+deactivate client
+
+activate clova
+  clova -> clova : 사용자 발화 분석
+  clova -->> client : Alerts.SetAlert 지시 메시지 전달
+deactivate clova
+
+activate client
+  client -> client : 클라이언트 기기에 알람 등록
+
+alt 알람 등록 결과 == 등록 실패
+
+  client ->> clova : Alerts.SetAlertFailed 이벤트 메시지 전송
+  deactivate client
+  activate clova
+
+    clova -->> client : SpeechSynthesizer.Speak 지시 메시지 전달\n("알람을 등록하지 못했어요.")
+
+  deactivate clova
+  activate client
+    client -->> user : 알람 등록 결과 전달
+
+else 알람 등록 결과 == 등록 성공
+
+  client ->> clova : Alerts.SetAlertSucceeded 이벤트 메시지 전송
+
+deactivate client
+
+activate clova
+  clova -> clova : 사용자 알람 등록
+  clova -->> client : SpeechSynthesizer.Speak 지시 메시지 전달\n("알람이 등록되었습니다.")
+activate client
+  clova -->> client :  Actiontimer, Alarm, Reminder, Timer 템플릿 전달\n(Clova.RenderTemplate 지시 메시지)
+deactivate clova
+
+  client -> client : 음성 출력 및 등록된 알람 내용 표시
+  client -->> user : 알람 등록 결과 전달
+
+  end

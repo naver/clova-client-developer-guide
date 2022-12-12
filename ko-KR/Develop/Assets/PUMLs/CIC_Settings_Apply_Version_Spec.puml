@@ -1,0 +1,24 @@
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+participant "클라이언트" as cli #9EA0CA
+participant CIC as cic #05D686
+
+
+activate cli
+
+  ... 클라이언트가 CIC에 연결된 후 ...
+
+  cli ->> cic: CLOVA가 제공하는 추가 설정 정보 요청\n(Settings.RequestVersionSpec 이벤트 메시지 전송)
+
+deactivate cli
+activate cic
+
+  cic -> cic: 클라이언트 이름, 버전 확인 후\n호환되는 설정 분석
+
+  cic -> cli: 추가 설정 반영 지시\n(Settings.UpdateVersionSpec 지시 메시지 전송)
+
+deactivate cic
+
+activate cli
+deactivate cli
+  cli -> cli: 전달받은 설정 정보를 설정 메뉴에 반영

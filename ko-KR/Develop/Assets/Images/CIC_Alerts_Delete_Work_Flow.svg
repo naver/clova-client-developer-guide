@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="690px" preserveAspectRatio="none" style="width:700px;height:690px;background:#FFFFFF;" version="1.1" viewBox="0 0 700 690" width="700px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="263.32" style="stroke:#000000;stroke-width:1.0;" width="10" x="300.5" y="159.52"/><rect fill="#FFFFFF" height="143.28" style="stroke:#000000;stroke-width:1.0;" width="10" x="300.5" y="531.36"/><rect fill="#FFFFFF" height="232.8" style="stroke:#000000;stroke-width:1.0;" width="10" x="594.5" y="298.56"/><rect fill="#FFFFFF" height="57.76" style="stroke:#000000;stroke-width:1.0;" width="10" x="594.5" y="600.88"/><rect fill="#FFFFFF" height="241.32" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="403.5" x="246" y="174.52"/><rect fill="#FFFFFF" height="109.28" style="stroke:none;stroke-width:1.0;" width="403.5" x="246" y="306.56"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="34" x2="34" y1="105.76" y2="683.64"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="305" x2="305" y1="105.76" y2="683.64"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="599.5" x2="599.5" y1="105.76" y2="683.64"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="33" x="15" y="91.92">사용자</text><ellipse cx="34.5" cy="15" fill="#FEFECE" rx="8" ry="8" style="stroke:#000000;stroke-width:2.0;"/><path d="M34.5,23 L34.5,50 M21.5,31 L47.5,31 M34.5,50 L21.5,65 M34.5,50 L47.5,65 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><rect fill="#9EA0CA" height="54.72" rx="5" ry="5" style="stroke:#FFFFFF;stroke-width:1.5;" width="99" x="256" y="50.04"/><text fill="#FFFFFF" font-family="Noto Sans CJK KR" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="65" x="273" y="83.28">클라이언트</text><rect fill="#05D686" height="54.72" rx="5" ry="5" style="stroke:#FFFFFF;stroke-width:1.5;" width="80" x="559.5" y="50.04"/><text fill="#FFFFFF" font-family="Noto Sans CJK KR" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="46" x="576.5" y="83.28">CLOVA</text><rect fill="#FFFFFF" height="263.32" style="stroke:#000000;stroke-width:1.0;" width="10" x="300.5" y="159.52"/><rect fill="#FFFFFF" height="143.28" style="stroke:#000000;stroke-width:1.0;" width="10" x="300.5" y="531.36"/><rect fill="#FFFFFF" height="232.8" style="stroke:#000000;stroke-width:1.0;" width="10" x="594.5" y="298.56"/><rect fill="#FFFFFF" height="57.76" style="stroke:#000000;stroke-width:1.0;" width="10" x="594.5" y="600.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="298.5" x2="288.5" y1="159.52" y2="155.52"/><line style="stroke:#000000;stroke-width:1.0;" x1="298.5" x2="288.5" y1="159.52" y2="163.52"/><line style="stroke:#000000;stroke-width:1.0;" x1="34.5" x2="299.5" y1="159.52" y2="159.52"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="227" x="54" y="143.68">알람 삭제 요청 (발화 또는 버튼을 통한 이벤트)</text><path d="M251,174.52 L327,174.52 L327,203.52 L317,213.52 L246,213.52 L246,179.52 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="241.32" rx="5" ry="5" style="stroke:#000000;stroke-width:2.0;" width="403.5" x="246" y="174.52"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="16" x="271" y="199.44">alt</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="185" x="352" y="200.44">[알람 삭제 요청 유형 == 사용자 발화]</text><line style="stroke:#000000;stroke-width:1.0;" x1="592.5" x2="582.5" y1="298.56" y2="294.56"/><line style="stroke:#000000;stroke-width:1.0;" x1="592.5" x2="582.5" y1="298.56" y2="302.56"/><line style="stroke:#000000;stroke-width:1.0;" x1="310.5" x2="593.5" y1="298.56" y2="298.56"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="97" x="404" y="264.96">알람 삭제 요청 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="245" x="330" y="282.72">(SpeechRecognizer.Recognize 이벤트 메시지)</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="246" x2="649.5" y1="307.56" y2="307.56"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="221" x="261" y="331.48">[알람 삭제 요청 유형 == 버튼을 통한 이벤트]</text><line style="stroke:#000000;stroke-width:1.0;" x1="592.5" x2="582.5" y1="407.84" y2="403.84"/><line style="stroke:#000000;stroke-width:1.0;" x1="592.5" x2="582.5" y1="407.84" y2="411.84"/><line style="stroke:#000000;stroke-width:1.0;" x1="310.5" x2="593.5" y1="407.84" y2="407.84"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="97" x="404" y="374.24">알람 삭제 요청 전달</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="227" x="339" y="392">(Alerts.RequestDeleteAlert 이벤트 메시지)</text><line style="stroke:#000000;stroke-width:1.0;" x1="604.5" x2="646.5" y1="466.6" y2="466.6"/><line style="stroke:#000000;stroke-width:1.0;" x1="646.5" x2="646.5" y1="466.6" y2="479.6"/><line style="stroke:#000000;stroke-width:1.0;" x1="605.5" x2="646.5" y1="479.6" y2="479.6"/><polygon fill="#000000" points="615.5,475.6,605.5,479.6,615.5,483.6,611.5,479.6" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="72" x="621.5" y="450.76">알람 삭제 처리</text><line style="stroke:#000000;stroke-width:1.0;" x1="310.5" x2="320.5" y1="531.36" y2="527.36"/><line style="stroke:#000000;stroke-width:1.0;" x1="310.5" x2="320.5" y1="531.36" y2="535.36"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="310.5" x2="598.5" y1="531.36" y2="531.36"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="186" x="362" y="515.52">Alerts.DeleteAlert 지시 메시지 전달</text><line style="stroke:#000000;stroke-width:1.0;" x1="592.5" x2="582.5" y1="600.88" y2="596.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="592.5" x2="582.5" y1="600.88" y2="604.88"/><line style="stroke:#000000;stroke-width:1.0;" x1="310.5" x2="593.5" y1="600.88" y2="600.88"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="97" x="404" y="567.28">알람 삭제 결과 보고</text><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="241" x="332" y="585.04">(Alerts.DeleteAlertSucceeded 이벤트 메시지)</text><line style="stroke:#000000;stroke-width:1.0;" x1="310.5" x2="352.5" y1="657.64" y2="657.64"/><line style="stroke:#000000;stroke-width:1.0;" x1="352.5" x2="352.5" y1="657.64" y2="670.64"/><line style="stroke:#000000;stroke-width:1.0;" x1="305.5" x2="352.5" y1="670.64" y2="670.64"/><polygon fill="#000000" points="315.5,666.64,305.5,670.64,315.5,674.64,311.5,670.64" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Noto Sans CJK KR" font-size="12" lengthAdjust="spacing" textLength="47" x="327.5" y="641.8">알람 삭제</text><!--MD5=[fed79c0e49ae0161a6e964898d7ae53d]
+@startuml
+
+!include ../../../styles/PlantUML_StyleSheet.puml
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+
+  user ->> client : 알람 삭제 요청 (발화 또는 버튼을 통한 이벤트)
+
+  activate client
+
+  alt 알람 삭제 요청 유형 == 사용자 발화
+
+    client ->> clova : 알람 삭제 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+
+  activate clova
+
+  else 알람 삭제 요청 유형 == 버튼을 통한 이벤트
+
+    client ->> clova : 알람 삭제 요청 전달\n(Alerts.RequestDeleteAlert 이벤트 메시지)
+
+  end
+
+  deactivate client
+
+  clova -> clova : 알람 삭제 처리
+
+  clova - ->> client : Alerts.DeleteAlert 지시 메시지 전달
+
+  deactivate clova
+  activate client
+
+  client ->> clova : 알람 삭제 결과 보고\n(Alerts.DeleteAlertSucceeded 이벤트 메시지)
+  
+  activate clova
+
+  client -> client : 알람 삭제
+  
+  deactivate clova
+
+@enduml
+
+@startuml
+
+scale max 880 width
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+skinparam roundcorner 10
+skinparam padding 10
+skinparam defaultFontSize 12
+skinparam defaultFontName "Noto Sans CJK KR"
+
+skinparam note {
+  BackgroundColor #9EA0CA
+  BorderColor #ffffff
+  FontColor #ffffff
+  FontSize 14
+  FontStyle bold
+}
+
+skinparam sequence {
+  ArrowColor #000000
+  ActorBorderColor #000000
+  ActorFontStyle Bolder
+
+
+  LifeLineBorderColor #000000
+  LifeLineBackgroundColor transparent
+  ParticipantBorderColor transparent
+  ParticipantFontSize 14
+  ParticipantFontColor #ffffff
+  ParticipantFontStyle bold
+
+  BoxBorderColor #000000
+  BoxFontColor #ffffff
+    BoxFontSize 14
+    BoxFontStyle bold
+}
+hide footbox
+
+skinparam activity {
+  BackgroundColor #9EA0CA
+  BarColor #ffffff
+  BorderColor #ffffff
+  DiamondBackgroundColor #05D686
+  DiamondBorderColor #ffffff
+  DiamondFontColor #ffffff
+  DiamondFontSize 14
+  DiamondFontStyle bold
+  FontColor #ffffff 
+  FontSize 14
+  FontStyle bold
+}
+
+actor 사용자 as user
+participant 클라이언트 as client #9EA0CA
+participant CLOVA as clova #05D686
+
+
+  user ->> client : 알람 삭제 요청 (발화 또는 버튼을 통한 이벤트)
+
+  activate client
+
+  alt 알람 삭제 요청 유형 == 사용자 발화
+
+    client ->> clova : 알람 삭제 요청 전달\n(SpeechRecognizer.Recognize 이벤트 메시지)
+
+  activate clova
+
+  else 알람 삭제 요청 유형 == 버튼을 통한 이벤트
+
+    client ->> clova : 알람 삭제 요청 전달\n(Alerts.RequestDeleteAlert 이벤트 메시지)
+
+  end
+
+  deactivate client
+
+  clova -> clova : 알람 삭제 처리
+
+  clova - ->> client : Alerts.DeleteAlert 지시 메시지 전달
+
+  deactivate clova
+  activate client
+
+  client ->> clova : 알람 삭제 결과 보고\n(Alerts.DeleteAlertSucceeded 이벤트 메시지)
+  
+  activate clova
+
+  client -> client : 알람 삭제
+  
+  deactivate clova
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 21:40:07 KST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: KR
+--></g></svg>
